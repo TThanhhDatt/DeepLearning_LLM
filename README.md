@@ -1,4 +1,4 @@
-# DeepLearning_LSTM
+# DeepLearning And LLM
 Build model deep learning for Entity recognition problem
 
 Describe this project:
