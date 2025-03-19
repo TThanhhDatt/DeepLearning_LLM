@@ -1,0 +1,2991 @@
+[
+  {
+    "image_path": "Img (116).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'two pieces of bread on a cutting board '. \nQuestion: How many fruits are in the image?\nAnswer: One, a single apple. \nQuestion: How many fruits are in the image?\nAnswer: Two, a single apple. \nQuestion",
+    "type": "count",
+    "caption": "two pieces of bread on a cutting board "
+  },
+  {
+    "image_path": "Img (246).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer:  A lot.  As you can see, the strawberry, orange and green apple are all ripe.  The orange is a pretty",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (232).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'a pile of oranges sitting on top of each other '. \nQuestion: How many orange are in the picture?\nAnswer: 4\nQuestion: How many orange are in the picture?\nAnswer: 4\nQuestion: How many orange are in the picture?\nAnswer:",
+    "type": "count",
+    "caption": "a pile of oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (142).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of a bunch of green bananas '. \nQuestion: What kind of fruit is in the picture?\nAnswer:  I don't know. I know that there are a lot of bananas, and some are more sweet than others, but they are not in",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of green bananas "
+  },
+  {
+    "image_path": "Img (145).jpg",
+    "question": "How many grapes are in the image?",
+    "answer": "'a bowl filled with lots of green and yellow grapes '. \nQuestion: How many grapes are in the image?\nAnswer: We have a small amount of grape.\nQuestion: What is the size of the grape?\nAnswer: It is very small.\nQuestion:",
+    "type": "count",
+    "caption": "a bowl filled with lots of green and yellow grapes "
+  },
+  {
+    "image_path": "Img (102).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a close up picture of an orange and an apple '. \nQuestion: How many apple are in the image?\nAnswer: A lot of them.\nQuestion: How many apples are in the image?\nAnswer: A lot of them.\nQuestion: How many apples",
+    "type": "count",
+    "caption": "a close up picture of an orange and an apple "
+  },
+  {
+    "image_path": "Img (112).JPG",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of yellow and green apples on a table '. \nQuestion: Count how many apple are present in the image.\nAnswer:  A pile of yellow and green apples on a table. \nQuestion: Count how many apple are present in the image. \nAnswer",
+    "type": "count",
+    "caption": "a pile of yellow and green apples on a table "
+  },
+  {
+    "image_path": "Img (298).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pair of red and white strawberries sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: The blueberries are the ones that are most likely to be eaten with your hand. \nQuestion: Is there a fruit that you think is more",
+    "type": "identify",
+    "caption": "a pair of red and white strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (293).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a pile of fresh fruit on top of each other '. \nQuestion: How many fruits are in the image?\nAnswer:  \"1\"\nQuestion: How many leaves are in the image? \nAnswer:  \"1\"\nQuestion: How many",
+    "type": "count",
+    "caption": "a pile of fresh fruit on top of each other "
+  },
+  {
+    "image_path": "Img (65).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a red and white bowl filled with lots of red berries '. \nQuestion: Count the number of fruits in the image.\nAnswer: A few. \nQuestion: Do you know how many fruits are on the left side of the photo? \nAnswer: I don't know",
+    "type": "count",
+    "caption": "a red and white bowl filled with lots of red berries "
+  },
+  {
+    "image_path": "Img (35).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas and a banana peel on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer:\nThe following fruits are very popular in the Western world:\nIn the West, they are considered to be very important and must be cultivated in order",
+    "type": "identify",
+    "caption": "bananas and a banana peel on a table "
+  },
+  {
+    "image_path": "Img (62).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a large red and white cherry tree with a bunch of berries in it '. \nQuestion: What fruit appears in this picture?\nAnswer: 'Bud'\nQuestion: What is the appearance of the fruit?\nAnswer: 'Bud'\nQuestion: What is the fruit's",
+    "type": "identify",
+    "caption": "a large red and white cherry tree with a bunch of berries in it "
+  },
+  {
+    "image_path": "Img (78).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a red and yellow flower in a red apple '. \nQuestion: How many apple do you see in this picture??\nAnswer: 6\nQuestion: Is there a 'red' apple in this picture ?\nAnswer: 1\nQuestion: Is there a red apple in this picture",
+    "type": "count",
+    "caption": "a red and yellow flower in a red apple "
+  },
+  {
+    "image_path": "Img (218).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'a tree with a bunch of green bananas hanging from it '. \nQuestion: Count how many banana are present in the image.\nAnswer: It is 3. \nQuestion: How many bananas are present in the image?\nAnswer: It is 3. \nQuestion: How many",
+    "type": "count",
+    "caption": "a tree with a bunch of green bananas hanging from it "
+  },
+  {
+    "image_path": "Img (235).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a basket full of oranges sitting on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: I see a lot of oranges. \nQuestion: Where do you see the oranges?\nAnswer: I see in the middle of the picture.",
+    "type": "identify",
+    "caption": "a basket full of oranges sitting on a table "
+  },
+  {
+    "image_path": "Img (226).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange and an apple sitting on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'The orange, an apple, and an orange peel'.\nQuestion: What do you see in the picture?\nAnswer: 'The apple and",
+    "type": "identify",
+    "caption": "an orange and an apple sitting on a table "
+  },
+  {
+    "image_path": "Img (108).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'an orange hanging from a tree '. \nQuestion: Identify the fruits in the picture.\nAnswer: We don't know the exact names of the fruits, but we have a good idea of the size of the fruit.\nQuestion: Describe the",
+    "type": "identify",
+    "caption": "an orange hanging from a tree "
+  },
+  {
+    "image_path": "Img (102).jpg",
+    "question": "Count how many orange are present in the image.",
+    "answer": "'a close up picture of an orange and an apple '. \nQuestion: Count how many orange are present in the image.\nAnswer: It would be very difficult to calculate. It is very difficult to determine. The number of oranges present in the image is one of the most important indicators",
+    "type": "count",
+    "caption": "a close up picture of an orange and an apple "
+  },
+  {
+    "image_path": "Img (175).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of some fresh fruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: I have an idea of the fruit, I will tell you.\nQuestion: What is the fruit in the picture?\nAnswer: I know that",
+    "type": "identify",
+    "caption": "a close up picture of some fresh fruit "
+  },
+  {
+    "image_path": "Img (172).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: How many fruits are in the picture?\nAnswer: The picture has a number of fruits, including:\n- red apples,\n- apple, orange, and yellow\n- red grapes,\n-",
+    "type": "count",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (2).jpeg",
+    "question": "How many apple are in the image?",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: How many apple are in the image?\nAnswer: A dozen or more. \nQuestion: Is there any color in the image?\nAnswer: The image has a clear yellow color.",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (150).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a large bunch of ripe bananas hanging from a tree '. \nQuestion: Identify the fruits in the picture.\nAnswer: No. \nQuestion: The fruit is not the same as the picture.\nAnswer: Yes. \nQuestion: How can I tell if",
+    "type": "identify",
+    "caption": "a large bunch of ripe bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (223).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a variety of fruits and vegetables on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'A variety of fruits and vegetables on a table. The fruit is the most common fruit and contains almost all of the essential vitamins and minerals. The",
+    "type": "identify",
+    "caption": "a variety of fruits and vegetables on a table "
+  },
+  {
+    "image_path": "Img (45).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a banana sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: A banana in a large fruit basket.\nQuestion: What is your favourite colour?\nAnswer: Orange or pink.\nQuestion: What is your",
+    "type": "identify",
+    "caption": "a banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (229).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a pile of fruit sitting on top of each other '. \nQuestion: How many fruits do you see in this picture??\nAnswer: 1,000\nQuestion: How many fruits do you see in this picture??\nAnswer: 2,500\nQuestion: How many fruits do you",
+    "type": "count",
+    "caption": "a pile of fruit sitting on top of each other "
+  },
+  {
+    "image_path": "Img (148).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a pile of red and yellow flowers on top of a table '. \nQuestion: How many fruits do you see in this picture??\nAnswer:  I saw three red and yellow fruits, but I don't think it is all of them. \nQuestion: How many fruits do you",
+    "type": "count",
+    "caption": "a pile of red and yellow flowers on top of a table "
+  },
+  {
+    "image_path": "Img (135).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a bowl filled with lots of different types of fruit '. \nQuestion: How many fruits are in the image?\nAnswer:  I don't know. \nQuestion: How many fruits are in the image?\nAnswer:  I don't know.",
+    "type": "count",
+    "caption": "a bowl filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (192).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a close up picture of an apple and an orange '. \nQuestion: How many apple are in the image?\nAnswer: 6.5\nQuestion: How many orange are in the image?\nAnswer: 5\nQuestion: How many red are in the image?",
+    "type": "count",
+    "caption": "a close up picture of an apple and an orange "
+  },
+  {
+    "image_path": "Img (233).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: Count the number of orange in the image.\nAnswer: I think that the most common reason for orange in the image is the fact that it's a small orange. In this case, the orange has been",
+    "type": "count",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (192).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'a close up picture of an apple and an orange '. \nQuestion: How many orange are in the picture?\nAnswer: The picture is of an apple and an orange.\nQuestion: How many oranges are in the picture?\nAnswer:  The picture is of",
+    "type": "count",
+    "caption": "a close up picture of an apple and an orange "
+  },
+  {
+    "image_path": "Img (96).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a bunch of ripe bananas '. \nQuestion: What fruits do you see in the picture?\nAnswer: It is a little bit of both. \nQuestion: What are the symptoms of the stomach?\nAnswer: It is very dry.",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (132).jpg",
+    "question": "Count the number of grapes in the image.",
+    "answer": "'a close up picture of a bunch of grapes '. \nQuestion: Count the number of grapes in the image.\nAnswer: The number of grapes in the image is a count of the number of grapes in the vineyard. The number of grapes is an estimate of the number",
+    "type": "count",
+    "caption": "a close up picture of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (97).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a table topped with a bunch of different types of fruit '. \nQuestion: What kind of fruit is in the picture?\nAnswer:  A variety of fruits such as apples, apricots, pears, oranges, cherry, cucumbers, etc. \nQuestion:",
+    "type": "identify",
+    "caption": "a table topped with a bunch of different types of fruit "
+  },
+  {
+    "image_path": "Img (258).jpg",
+    "question": "How many orange do you see in this picture??",
+    "answer": "'a pile of oranges sitting on top of each other '. \nQuestion: How many orange do you see in this picture??\nAnswer: I can't remember. \nQuestion: How many oranges do you see in this picture??\nAnswer: I can't remember. \nQuestion",
+    "type": "count",
+    "caption": "a pile of oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (99).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a tree with a bunch of fruit hanging from it '. \nQuestion: How many fruits do you see in this picture??\nAnswer:\nI don't know. I'm a bit curious because this is my first time looking at a picture of a tree with fruit hanging from it.",
+    "type": "count",
+    "caption": "a tree with a bunch of fruit hanging from it "
+  },
+  {
+    "image_path": "Img (199).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a basket filled with lots of different types of fruit '. \nQuestion: How many fruits do you see in this picture??\nAnswer: No, it's actually about three hundred. \nQuestion: You are saying that the fruit is not a fruit but rather a tree ?\nAnswer",
+    "type": "count",
+    "caption": "a basket filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (183).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: What fruit appears in this picture?\nAnswer: 'A sweet fruit' \nQuestion: What fruit appears in this picture?\nAnswer: 'a sweet fruit' \nQuestion: What fruit",
+    "type": "identify",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (96).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'a close up picture of a bunch of ripe bananas '. \nQuestion: How many banana do you see in this picture??\nAnswer: It's a little over 100.\nQuestion: What's the deal with the 'Poppy'??\nAnswer: I think it's a '",
+    "type": "count",
+    "caption": "a close up picture of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (160).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a bunch of green and yellow flowers '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruits are:\nBlueberries, Fruits of the Blueberry (Figs. 2-3)\nBlueberries, Fruits of the",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (184).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of a fruit and vegetable '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The fruit is a large tree, with a long, slender stem and a long, thin stem. The stem is white with a greenish hue.",
+    "type": "identify",
+    "caption": "a close up picture of a fruit and vegetable "
+  },
+  {
+    "image_path": "Img (279).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a white plate topped with strawberries and ice cream '. \nQuestion: What fruits do you see in the picture?\nAnswer: A lot.  The strawberries are usually in the middle of the blueberries.  The ice cream is actually a kind of ice cream.",
+    "type": "identify",
+    "caption": "a white plate topped with strawberries and ice cream "
+  },
+  {
+    "image_path": "Img (277).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a pile of fruit on top of each other '. \nQuestion: How many fruits do you see in this picture??\nAnswer:  I have seen about 500. \nQuestion: Where are the strawberries?\nAnswer:  There are about 3-4 in total",
+    "type": "count",
+    "caption": "a pile of fruit on top of each other "
+  },
+  {
+    "image_path": "Img (44).jpg",
+    "question": "How many banana are in the image?",
+    "answer": "'bunches of bananas sitting in a basket '. \nQuestion: How many banana are in the image?\nAnswer:  The image of the banana is very large. \nQuestion: How many bananas are in the image?\nAnswer:  The image",
+    "type": "count",
+    "caption": "bunches of bananas sitting in a basket "
+  },
+  {
+    "image_path": "Img (19).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of apples sitting on top of each other '. \nQuestion: Count how many apple are present in the image.\nAnswer:  The size of the pile depends on the size of the apple. \nQuestion: How many apples are present in the image.\nAnswer",
+    "type": "count",
+    "caption": "a pile of apples sitting on top of each other "
+  },
+  {
+    "image_path": "Img (275).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a pile of fruit sitting on top of each other '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits in the image is calculated by multiplying the height by the width.\nQuestion: In the picture, does the height of the fruit",
+    "type": "count",
+    "caption": "a pile of fruit sitting on top of each other "
+  },
+  {
+    "image_path": "Img (294).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a person holding a red and green flower in their hand '. \nQuestion: How many fruits are in the image?\nAnswer: 3\nQuestion: How many fruits are in the image?\nAnswer: 3\nQuestion: How many fruits are in the image?\nQuestion:",
+    "type": "count",
+    "caption": "a person holding a red and green flower in their hand "
+  },
+  {
+    "image_path": "Img (100).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of fruit sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer:   'a bunch of fruit sitting on top of each other'. \nQuestion: Is there any fruit in the picture that has a fruit on it",
+    "type": "identify",
+    "caption": "a pile of fruit sitting on top of each other "
+  },
+  {
+    "image_path": "Img (9).jpeg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: A very common question is \"What is the fruit of the tree?\" \nQuestion: The fruit is not \"fruit\". \nQuestion: \"",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (121).jpg",
+    "question": "How many apple are in the picture?",
+    "answer": "'a close up picture of a ripe apple '. \nQuestion: How many apple are in the picture?\nAnswer: There are over 2,000 apples.\nQuestion: How many of these are ripe?\nAnswer: Some of the apples are ripe.\nQuestion",
+    "type": "count",
+    "caption": "a close up picture of a ripe apple "
+  },
+  {
+    "image_path": "Img (262).jpg",
+    "question": "How many orange do you see in this picture??",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: How many orange do you see in this picture??\nAnswer:  The picture is of a small orange on the table.  The picture has the color of an orange.  It's a very",
+    "type": "count",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (221).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a green apple sitting on top of a white surface '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A large variety of fruit such as apples, oranges, apricots, cherries, apricots, cranberries, pears, and c",
+    "type": "identify",
+    "caption": "a green apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (295).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a white plate topped with a bunch of strawberries '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits is shown in the image and is the weight of the food.\nQuestion: In the image, the number of fruits is shown",
+    "type": "count",
+    "caption": "a white plate topped with a bunch of strawberries "
+  },
+  {
+    "image_path": "Img (73).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a red and white grapefruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: It is a red and white grapefruit.\nQuestion: Describe the color of the fruit.\nAnswer: It is a red and white grape",
+    "type": "identify",
+    "caption": "a close up picture of a red and white grapefruit "
+  },
+  {
+    "image_path": "Img (162).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: How many fruits do you see in this picture??\nAnswer:  I'm not sure what you mean by 'several different types'. \nQuestion: How many fruits do you see in this picture??",
+    "type": "count",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (119).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a plate of food on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: A large variety of fruits.\nQuestion: Are there any fruits in the picture?\nAnswer: Yes.\nQuestion: Where does the food come",
+    "type": "identify",
+    "caption": "a plate of food on a table "
+  },
+  {
+    "image_path": "Img (269).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a ripe red rose '. \nQuestion: What fruits do you see in the picture?\nAnswer: As you can see in the photo the red rose is a red rose, a pink rose and a yellow rose. \nQuestion: What fruits do",
+    "type": "identify",
+    "caption": "a close up picture of a ripe red rose "
+  },
+  {
+    "image_path": "Img (89).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of red apples sitting on top of each other '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The first is a sweet red apple.  It is a sweet red apple with a long yellow tail and a small yellowish pink tip.",
+    "type": "identify",
+    "caption": "a pile of red apples sitting on top of each other "
+  },
+  {
+    "image_path": "Img (281).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of red and green strawberries on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: I've seen a lot of strawberries, but I haven't seen a lot of yellow or purple. \nQuestion: Why is it that you're",
+    "type": "identify",
+    "caption": "a pile of red and green strawberries on top of a table "
+  },
+  {
+    "image_path": "Img (207).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a large bunch of green bananas hanging from a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer: I saw a large bunch of bananas hanging from a tree. \nQuestion: What are the fruits of the bananas you see?\nAnswer: The",
+    "type": "identify",
+    "caption": "a large bunch of green bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (225).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a green apple '. \nQuestion: What fruit appears in this picture?\nAnswer: A yellow apple is also mentioned, but there is no indication that it is edible.\nQuestion: What is the name of the apple?\nAnswer",
+    "type": "identify",
+    "caption": "a close up picture of a green apple "
+  },
+  {
+    "image_path": "Img (5).jpeg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of a ripe banana '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A ripe banana is a fruit that has a soft, fruity taste. It is also called a 'bud' or a 'sweet banana'",
+    "type": "identify",
+    "caption": "a close up picture of a ripe banana "
+  },
+  {
+    "image_path": "Img (285).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a ripe orange '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruit is red, but it is not a green color. \nQuestion: Is it possible to distinguish the fruit from the fruit on the picture",
+    "type": "identify",
+    "caption": "a close up picture of a ripe orange "
+  },
+  {
+    "image_path": "Img (25).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of apples sitting on top of each other '. \nQuestion: Identify the fruits in the picture.\nAnswer: It is a pile of apples on top of each other, which are all covered with white flowers.\nQuestion: How do you describe the fruit?",
+    "type": "identify",
+    "caption": "a pile of apples sitting on top of each other "
+  },
+  {
+    "image_path": "Img (196).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a ripe orange '. \nQuestion: What fruit appears in this picture?\nAnswer: 'A ripe orange'. \nQuestion: What fruit appears in this picture?\nAnswer: 'A ripe orange'.  Question: What fruit appears",
+    "type": "identify",
+    "caption": "a close up picture of a ripe orange "
+  },
+  {
+    "image_path": "Img (52).jpg",
+    "question": "How many banana are in the image?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: How many banana are in the image?\nAnswer: 1,500,000. \nQuestion: What is the name of the brand of banana?\nAnswer: Banana is a brand of fruit or",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (64).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a tree with a bunch of berries on top of it '. \nQuestion: What fruits do you see in the picture?\nAnswer: It is a little bit of everything. \nQuestion: How did you find this tree?\nAnswer: I found it in the backyard of a",
+    "type": "identify",
+    "caption": "a tree with a bunch of berries on top of it "
+  },
+  {
+    "image_path": "Img (168).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a close up picture of three different types of fruit '. \nQuestion: Count how many fruits are present in the image.\nAnswer:  The answer is 1.  This means that the image is only about one-third as large as it would have been if the subject",
+    "type": "count",
+    "caption": "a close up picture of three different types of fruit "
+  },
+  {
+    "image_path": "Img (219).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'a small orange sitting on top of a wooden surface '. \nQuestion: Count the number of orange in the image.\nAnswer: 1 (0.001)\nQuestion: 1 (0.001)\nQuestion: 1 (0.001)\nQuestion: 1 (0",
+    "type": "count",
+    "caption": "a small orange sitting on top of a wooden surface "
+  },
+  {
+    "image_path": "Img (289).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a red and yellow flower in a tree '. \nQuestion: How many fruits do you see in this picture??\nAnswer: This picture is a simple picture of a tree in a tree. It is a flower with a red and yellow flower on it. \nQuestion:",
+    "type": "count",
+    "caption": "a red and yellow flower in a tree "
+  },
+  {
+    "image_path": "Img (291).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a pile of fruit sitting on top of a table '. \nQuestion: How many fruits are in the image?\nAnswer: 2,000,000  (The number of fruits is the total number of bananas each year, the number of bananas per person is 1,",
+    "type": "count",
+    "caption": "a pile of fruit sitting on top of a table "
+  },
+  {
+    "image_path": "Img (278).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of red and white strawberries on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: They are:\nRedberry (2.8%), raspberry (2.9%), plum (2.9%), blueberry (2.8%),",
+    "type": "identify",
+    "caption": "a pile of red and white strawberries on top of each other "
+  },
+  {
+    "image_path": "Img (145).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a bowl filled with lots of green and yellow grapes '. \nQuestion: Identify the fruits in the picture.\nAnswer: In this case, the green grape fruit.\nQuestion: Why did you pick the orange-yellow fruit?\nAnswer: The orange-yellow fruit",
+    "type": "identify",
+    "caption": "a bowl filled with lots of green and yellow grapes "
+  },
+  {
+    "image_path": "Img (59).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Count how many banana are present in the image.\nAnswer: 100. \nQuestion: Is there a banana on the top of each banana?\nAnswer: Yes. \nQuestion: Is there a banana",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (300).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a pile of red and white strawberries on top of each other '. \nQuestion: How many fruits are in the picture?\nAnswer: 7\nQuestion: How many fruits are in the picture?\nAnswer: 8\nQuestion: How many fruits are in the picture?\nAnswer:",
+    "type": "count",
+    "caption": "a pile of red and white strawberries on top of each other "
+  },
+  {
+    "image_path": "Img (24).jpg",
+    "question": "How many apple are in the picture?",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: How many apple are in the picture?\nAnswer: 100  (as of 8:50 pm )\nQuestion: What is the maximum number of apple slices?\nAnswer: 100  (",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (219).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a small orange sitting on top of a wooden surface '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'a red, yellow, orange and green apple'. \nQuestion: What do you see in the picture? Answer: 'a little green onion",
+    "type": "identify",
+    "caption": "a small orange sitting on top of a wooden surface "
+  },
+  {
+    "image_path": "Img (208).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a basket filled with lots of green and yellow flowers '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits is about 5.5.\nQuestion: How many vegetables are in the image?\nAnswer: Each of the 5.5",
+    "type": "count",
+    "caption": "a basket filled with lots of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (61).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bunches of ripe bananas on display at a market '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'Pumpkin'. \nQuestion: Where do you see bananas from?\nAnswer: 'Pumpkin'\nQuestion: Where do you",
+    "type": "identify",
+    "caption": "bunches of ripe bananas on display at a market "
+  },
+  {
+    "image_path": "Img (180).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a close up picture of three different types of fruit '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits is a number that is often divided by two. \nQuestion: How long can you see a single apple?\nAnswer:",
+    "type": "count",
+    "caption": "a close up picture of three different types of fruit "
+  },
+  {
+    "image_path": "Img (265).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'an orange sitting on top of a white surface '. \nQuestion: How many orange are in the picture?\nAnswer: Some people have been able to see some orange without having to touch it. The most common orange is around the middle of the chest, and the most",
+    "type": "count",
+    "caption": "an orange sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (250).jpg",
+    "question": "How many orange do you see in this picture??",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: How many orange do you see in this picture??\nAnswer: There are three.  The left one is a small orange, the right one is a large orange.  The bottom one is a red",
+    "type": "count",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (236).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: Count the number of orange in the image.\nAnswer:  This is the number of orange pieces in the image. \nQuestion:  What color do the pieces represent?\nAnswer:",
+    "type": "count",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (45).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'a banana sitting on top of a table '. \nQuestion: How many banana do you see in this picture??\nAnswer:\nAnswer:\nQuestion: Are you a vegetarian or vegan?\nAnswer:\nQuestion: Are you a vegetarian or vegan?\nAnswer:",
+    "type": "count",
+    "caption": "a banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (178).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'a close up picture of a ripe banana '. \nQuestion: Count how many banana are present in the image.\nAnswer:  The banana is a bit larger than average.  The image does not show any of the banana's stems.  The picture also",
+    "type": "count",
+    "caption": "a close up picture of a ripe banana "
+  },
+  {
+    "image_path": "Img (136).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a basket filled with lots of green and yellow flowers '. \nQuestion: How many fruits do you see in this picture??\nAnswer: The number of fruits is about 9. \nQuestion: What is the size of the apple?\nAnswer: It is about 10 mm tall and",
+    "type": "count",
+    "caption": "a basket filled with lots of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (157).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a blue and white vine hanging from a tree '. \nQuestion: Identify the fruits in the picture.\nAnswer: \nQuestion: The fruit is a fruit of a vine. \nQuestion: The fruit is a fruit of a vine. \nQuestion:",
+    "type": "identify",
+    "caption": "a blue and white vine hanging from a tree "
+  },
+  {
+    "image_path": "Img (48).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'bananas sitting on top of a table '. \nQuestion: How many banana are in the picture?\nAnswer: I can't say how many bananas.\nQuestion: Can you tell us about the banana itself?\nAnswer: I know that it's an edible",
+    "type": "count",
+    "caption": "bananas sitting on top of a table "
+  },
+  {
+    "image_path": "Img (129).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a large amount of green and yellow flowers in a field '. \nQuestion: How many fruits are in the image?\nAnswer: There are no fruits in this picture. \nQuestion: Are there any other images on this website?\nAnswer: The images are for informational purposes",
+    "type": "count",
+    "caption": "a large amount of green and yellow flowers in a field "
+  },
+  {
+    "image_path": "Img (135).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a bowl filled with lots of different types of fruit '. \nQuestion: What fruit appears in this picture?\nAnswer: The fruit that appears in this picture is the fruit of the same species as the fruit that appears in this picture. \nQuestion: Why is this",
+    "type": "identify",
+    "caption": "a bowl filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (22).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a red apple sitting on top of a green apple '. \nQuestion: What fruit appears in this picture?\nAnswer: It is a fruit called 'cactus'. \nQuestion: Why is it called 'cactus'?\nAnswer: Because it is a fruit of",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a green apple "
+  },
+  {
+    "image_path": "Img (188).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: Some of them are ripe and some are not. \nQuestion: What fruits do you see in the picture?\nAnswer: Some of them are",
+    "type": "identify",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (146).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a pile of different types of fruits on top of each other '. \nQuestion: How many fruits are in the image?\nAnswer: It is a number which can be multiplied by 1. \nQuestion: How many fruits are in the image? Answer: It is a number which",
+    "type": "count",
+    "caption": "a pile of different types of fruits on top of each other "
+  },
+  {
+    "image_path": "Img (256).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: Count the number of orange in the image.\nAnswer:  There are 1,400 orange cells in this image. \nQuestion: Is this an orange table?\nAnswer:  No.",
+    "type": "count",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (181).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'a close up picture of a green apple and a banana '. \nQuestion: How many banana are in the picture?\nAnswer: The picture is about 7cm in diameter.\nQuestion: How much do you think the picture should be?\nAnswer: 1 gram.",
+    "type": "count",
+    "caption": "a close up picture of a green apple and a banana "
+  },
+  {
+    "image_path": "Img (296).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pile of strawberries sitting on top of each other '. \nQuestion: What fruit appears in this picture?\nAnswer: There is a fruit in this picture which is not a strawberry. \nQuestion: What fruit is this picture?\nAnswer: This is a picture",
+    "type": "identify",
+    "caption": "a pile of strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (79).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of red, white, and blue apples on a table '. \nQuestion: Count how many apple are present in the image.\nAnswer: 2,000\nQuestion: If you're looking at the same image with different colours, how many apples are present in the image?\nAnswer:",
+    "type": "count",
+    "caption": "a pile of red, white, and blue apples on a table "
+  },
+  {
+    "image_path": "Img (195).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a close up picture of a green and white apple '. \nQuestion: How many apple do you see in this picture??\nAnswer: The same apple as above. \nQuestion: What is your favorite apple?\nAnswer: The same apple as above. \nQuestion: What",
+    "type": "count",
+    "caption": "a close up picture of a green and white apple "
+  },
+  {
+    "image_path": "Img (125).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a small bird perched on a branch of a tree '. \nQuestion: How many fruits are in the picture?\nAnswer: A few.\nQuestion: Is it possible to tell which one is the fruit of the tree?\nAnswer: A few. \nQuestion:",
+    "type": "count",
+    "caption": "a small bird perched on a branch of a tree "
+  },
+  {
+    "image_path": "Img (163).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a table topped with a bunch of different types of fruit '. \nQuestion: Count how many fruits are present in the image.\nAnswer:  A few of the fruit are edible, but not much more than the ones used in the picture. \nQuestion: Are there any other",
+    "type": "count",
+    "caption": "a table topped with a bunch of different types of fruit "
+  },
+  {
+    "image_path": "Img (91).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a red apple and a red grapefruit on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: In a restaurant, a red apple and a red grapefruit are the main ingredient. \nQuestion: Do you know of any other food ingredients that",
+    "type": "identify",
+    "caption": "a red apple and a red grapefruit on a table "
+  },
+  {
+    "image_path": "Img (30).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer:\nThe fruit in this picture is bananas. \nQuestion: How many of you know that you are eating a lot of bananas?\nAnswer:",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (206).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'an orange and an apple on a table '. \nQuestion: How many orange are in the image?\nAnswer: 1\nQuestion: How many apples are in the image?\nAnswer: 2\nQuestion: How many oranges are in the image?\nAnswer:",
+    "type": "count",
+    "caption": "an orange and an apple on a table "
+  },
+  {
+    "image_path": "Img (211).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a piece of fruit sitting on top of a table '. \nQuestion: Count the number of fruits in the image.\nAnswer: Number of fruits in the image.\nQuestion: Count the number of fruits in the image.\nQuestion: Count the number of fruits in the image",
+    "type": "count",
+    "caption": "a piece of fruit sitting on top of a table "
+  },
+  {
+    "image_path": "Img (297).jpg",
+    "question": "Count the number of apple in the image.",
+    "answer": "'a close up picture of a ripe red apple '. \nQuestion: Count the number of apple in the image.\nAnswer: 1,000. \nQuestion: Count the number of apples in the image.\nAnswer: 1,000. \nQuestion: Count the",
+    "type": "count",
+    "caption": "a close up picture of a ripe red apple "
+  },
+  {
+    "image_path": "Img (70).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a red apple sitting on top of a white plate '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The picture is of a red apple.\nQuestion: Is this picture of the apple a 'white apple' or a 'red apple'?\nAnswer",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a white plate "
+  },
+  {
+    "image_path": "Img (209).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'two ripe yellow bananas sitting on top of each other '. \nQuestion: Count the number of banana in the image.\nAnswer: 1\nQuestion: How many bananas have you found in your own backyard?\nAnswer: 2\nQuestion: How many bananas have you found in your",
+    "type": "count",
+    "caption": "two ripe yellow bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (39).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a ripe banana sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'A ripe banana standing on top of a table'. \nQuestion: How many fruit do you see in the picture?\nAnswer: 1.",
+    "type": "identify",
+    "caption": "a ripe banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (151).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a close up picture of a bunch of purple flowers '. \nQuestion: Count the number of fruits in the image.\nAnswer: The first number is the number of plants. \nQuestion: The number of plants in the picture.\nAnswer: The second number is the number",
+    "type": "count",
+    "caption": "a close up picture of a bunch of purple flowers "
+  },
+  {
+    "image_path": "Img (254).JPG",
+    "question": "How many orange are in the image?",
+    "answer": "'a pile of oranges sitting on top of each other '. \nQuestion: How many orange are in the image?\nAnswer: The number of oranges is determined by the number of pixels in the image. \nQuestion: What color is the image?\nAnswer: The color",
+    "type": "count",
+    "caption": "a pile of oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (159).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of grapes on top of a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: It is possible to identify the fruits from the picture.\nQuestion: If the picture is taken with a camera, and the fruits are not clearly visible",
+    "type": "identify",
+    "caption": "a pile of grapes on top of a table "
+  },
+  {
+    "image_path": "Img (274).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a bowl filled with a bunch of fresh fruit '. \nQuestion: Count the number of fruits in the image.\nAnswer: 3  and the number of leaves in the image. \nQuestion: Is the fruit the same as the one pictured?\nAnswer: Yes",
+    "type": "count",
+    "caption": "a bowl filled with a bunch of fresh fruit "
+  },
+  {
+    "image_path": "Img (77).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a series of photos showing different types of fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'A series of fruit photographs showing different types of fruit.\nQuestion: What is the origin of the name of the fruit?\nAnswer: '",
+    "type": "identify",
+    "caption": "a series of photos showing different types of fruit "
+  },
+  {
+    "image_path": "Img (273).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of ripe strawberries sitting on top of a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: Fruit of the wild, or 'fruit of the forest' or 'fruit of the field'.\nQuestion: What kind of fruit is in the picture",
+    "type": "identify",
+    "caption": "a pile of ripe strawberries sitting on top of a table "
+  },
+  {
+    "image_path": "Img (283).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pair of red and white flowers sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: The flowers are all red, white and green. \nQuestion: What is your favorite vegetable?\nAnswer: A banana. \nQuestion:",
+    "type": "identify",
+    "caption": "a pair of red and white flowers sitting on top of each other "
+  },
+  {
+    "image_path": "Img (74).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a large bunch of red berries on top of a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer: A few. \nQuestion: I am using a picture of a large tree. \nAnswer: I am using a picture of a tree.",
+    "type": "identify",
+    "caption": "a large bunch of red berries on top of a tree "
+  },
+  {
+    "image_path": "Img (277).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of fruit on top of each other '. \nQuestion: Identify the fruits in the picture.\nAnswer:  The picture is of a pile of fruit on top of each other. \nQuestion: Describe what you found in the picture.",
+    "type": "identify",
+    "caption": "a pile of fruit on top of each other "
+  },
+  {
+    "image_path": "Img (259).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer:  I see a lot of fruit.  I also see some fruits like bananas, strawberries and apples.  I also see some fruits",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (16).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a red apple sitting on top of a green plant '. \nQuestion: How many apple do you see in this picture??\nAnswer:\nAnswer:\nQuestion: I have a question about a book that I want to read about. What do you think is the best book about apple",
+    "type": "count",
+    "caption": "a red apple sitting on top of a green plant "
+  },
+  {
+    "image_path": "Img (105).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a person sitting in front of a basket of fruit '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A fruit that is a little red, or a little green, or a lot of red. \nQuestion: What kind of fruit is in the",
+    "type": "identify",
+    "caption": "a person sitting in front of a basket of fruit "
+  },
+  {
+    "image_path": "Img (223).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a variety of fruits and vegetables on a table '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits and vegetables is calculated using the following formula:\nIn the above example, the number of fruits and vegetables in the image is the",
+    "type": "count",
+    "caption": "a variety of fruits and vegetables on a table "
+  },
+  {
+    "image_path": "Img (292).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of red and green apples on a table '. \nQuestion: Count how many apple are present in the image.\nAnswer: The apple on the table is a red apple with a green apple on the top. \nQuestion: What is the colour of the apples?",
+    "type": "count",
+    "caption": "a pile of red and green apples on a table "
+  },
+  {
+    "image_path": "Img (110).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a pot filled with lots of brown stuff in a field '. \nQuestion: How many fruits do you see in this picture??\nAnswer: I know that the picture is from the 'Pill of Grass' at the top. \nQuestion: What is the date of this picture??",
+    "type": "count",
+    "caption": "a pot filled with lots of brown stuff in a field "
+  },
+  {
+    "image_path": "Img (77).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a series of photos showing different types of fruit '. \nQuestion: How many fruits are in the image?\nAnswer: The following fruit is not available in the picture, but can be found in the list of available fruit:\nJalapeno (green)",
+    "type": "count",
+    "caption": "a series of photos showing different types of fruit "
+  },
+  {
+    "image_path": "Img (56).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of ripe bananas sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: In the picture the bananas are in the same position as in the picture, but the fruit is on top of the banana.\nQuestion: Do you",
+    "type": "identify",
+    "caption": "a pile of ripe bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (55).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas and a banana peel on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'a lot of fruits'. \nQuestion: What is the difference between a banana and a banana peel?\nAnswer: 'a lot of bananas",
+    "type": "identify",
+    "caption": "bananas and a banana peel on a table "
+  },
+  {
+    "image_path": "Img (148).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pile of red and yellow flowers on top of a table '. \nQuestion: What fruit appears in this picture?\nAnswer: 'A white peach'\nQuestion: What type of fruit does this picture have?\nAnswer: 'A peach'\nQuestion: What is the",
+    "type": "identify",
+    "caption": "a pile of red and yellow flowers on top of a table "
+  },
+  {
+    "image_path": "Img (95).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'two pieces of bread are sitting on a table '. \nQuestion: What fruit appears in this picture?\nAnswer:\n'two pieces of bread are sitting on a table'.\nQuestion: What fruit appears in this picture?\nAnswer:\n'two pieces of",
+    "type": "identify",
+    "caption": "two pieces of bread are sitting on a table "
+  },
+  {
+    "image_path": "Img (268).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pair of red and white strawberries sitting on top of each other '. \nQuestion: What fruit appears in this picture?\nAnswer: The strawberries are quite large. \nQuestion: Is this picture a true photo or a fake?\nAnswer: It is a true photo, it",
+    "type": "identify",
+    "caption": "a pair of red and white strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (164).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a close up picture of an orange and an apple '. \nQuestion: How many apple do you see in this picture??\nAnswer: I see a few apple trees. \nQuestion: What is your opinion on the appearance of a new apple?\nAnswer: I don't think",
+    "type": "count",
+    "caption": "a close up picture of an orange and an apple "
+  },
+  {
+    "image_path": "Img (92).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a small bird sitting on a tree branch '. \nQuestion: How many fruits are in the image?\nAnswer: There are two fruits in this image. The first is a peach. The second is a pear.\nQuestion: How many fruits are in the image",
+    "type": "count",
+    "caption": "a small bird sitting on a tree branch "
+  },
+  {
+    "image_path": "Img (209).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'two ripe yellow bananas sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'Bukkake' is a fruit that is found in the south-west of England and Wales. It is very large, with a small",
+    "type": "identify",
+    "caption": "two ripe yellow bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (71).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a red apple sitting on top of a white apple '. \nQuestion: What fruit appears in this picture?\nAnswer: A red apple in the middle of the picture. \nQuestion: What is the name of this picture?\nAnswer: The name of this picture",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a white apple "
+  },
+  {
+    "image_path": "Img (203).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a tree with a bunch of fruit hanging from it '. \nQuestion: What fruits do you see in the picture?\nAnswer:\nfruit with leaves\nfruit with leaves\nfruit with leaves\nfruit with leaves\nQuestion: Can you tell me a little bit about your family and",
+    "type": "identify",
+    "caption": "a tree with a bunch of fruit hanging from it "
+  },
+  {
+    "image_path": "Img (253).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'two oranges sitting next to each other on a table '. \nQuestion: What fruit appears in this picture?\nAnswer: 'Fruit of the same color' \nQuestion: What fruit appears in this picture?\nAnswer: 'Fruit of the same color'",
+    "type": "identify",
+    "caption": "two oranges sitting next to each other on a table "
+  },
+  {
+    "image_path": "Img (169).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a variety of fruits and vegetables on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: A variety of fruits and vegetables on a table\nQuestion: How many different fruits and vegetables do you eat?\nAnswer: A variety of fruits and",
+    "type": "identify",
+    "caption": "a variety of fruits and vegetables on a table "
+  },
+  {
+    "image_path": "Img (132).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a bunch of grapes '. \nQuestion: What fruits do you see in the picture?\nAnswer: A few grapes. \nQuestion: What fruits do you see in the picture?\nAnswer: A few grapes.   \nQuestion:",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (127).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a pile of green and yellow flowers on a wooden table '. \nQuestion: Count the number of fruits in the image.\nAnswer: 1-3-10\nQuestion: Count the number of vegetables in the image.\nAnswer: 1-3-10\nQuestion: Count the",
+    "type": "count",
+    "caption": "a pile of green and yellow flowers on a wooden table "
+  },
+  {
+    "image_path": "Img (150).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'a large bunch of ripe bananas hanging from a tree '. \nQuestion: Count the number of banana in the image.\nAnswer: 2\nQuestion: Which type of fruit is it?\nAnswer: 'bud'. \nQuestion: Which fruit is it?\nAnswer:",
+    "type": "count",
+    "caption": "a large bunch of ripe bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (242).jpg",
+    "question": "Count how many orange are present in the image.",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: Count how many orange are present in the image.\nAnswer:\nQuestion: How many orange are present in the image.\nAnswer:\nQuestion: Count how many orange are present in the image.\nAnswer",
+    "type": "count",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (298).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a pair of red and white strawberries sitting on top of each other '. \nQuestion: How many fruits are in the picture?\nAnswer: The picture is about half of the size of the picture.\nQuestion: How many strawberries are in the picture?\nAnswer: The picture is about",
+    "type": "count",
+    "caption": "a pair of red and white strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (103).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a pair of hands holding a small piece of food '. \nQuestion: How many fruits do you see in this picture??\nAnswer: It is about 1.6 kg. \nQuestion: What is the weight of this bag? \nAnswer: 3.4 kg.",
+    "type": "count",
+    "caption": "a pair of hands holding a small piece of food "
+  },
+  {
+    "image_path": "Img (25).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of apples sitting on top of each other '. \nQuestion: Count how many apple are present in the image.\nAnswer: 1,000. \nQuestion: How many apples are in the image?\nAnswer: 1,000. \nQuestion: How many apples",
+    "type": "count",
+    "caption": "a pile of apples sitting on top of each other "
+  },
+  {
+    "image_path": "Img (276).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a white plate topped with a bunch of strawberries '. \nQuestion: Count how many fruits are present in the image.\nAnswer: 1. \nQuestion: How many fruits are present in the image.\nAnswer: 1. \nQuestion: How many fruits are present in",
+    "type": "count",
+    "caption": "a white plate topped with a bunch of strawberries "
+  },
+  {
+    "image_path": "Img (286).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a pile of red and yellow flowers sitting on top of each other '. \nQuestion: How many fruits are in the picture?\nAnswer:  \"a few dozen\". \nQuestion: I am going to ask you about the amount of apples in your picture.\nAnswer:",
+    "type": "count",
+    "caption": "a pile of red and yellow flowers sitting on top of each other "
+  },
+  {
+    "image_path": "Img (197).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of different types of fruit on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'a pile of different types of fruit on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'a",
+    "type": "identify",
+    "caption": "a pile of different types of fruit on a table "
+  },
+  {
+    "image_path": "Img (255).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a glass of orange juice sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'fruit with a light, white base, with a yellow color and a white base'. \nQuestion: What are the fruits you see?",
+    "type": "identify",
+    "caption": "a glass of orange juice sitting on top of a table "
+  },
+  {
+    "image_path": "Img (187).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: What kind of fruit is in the picture?\nAnswer:  It is a very simple fruit.  It is very sweet.  It is very simple.  It is very sweet and",
+    "type": "identify",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (67).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a red apple and a red grapefruit on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer:  Yes, I can see the red apple, but not the red grapefruit. \nQuestion: Identify the fruits in the picture.",
+    "type": "identify",
+    "caption": "a red apple and a red grapefruit on a table "
+  },
+  {
+    "image_path": "Img (288).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a pile of red and yellow flowers sitting on top of each other '. \nQuestion: Count the number of fruits in the image.\nAnswer: If the number of fruits is greater than 5, the image should be enlarged to make the fruit larger.\nQuestion: If the number of fruits is",
+    "type": "count",
+    "caption": "a pile of red and yellow flowers sitting on top of each other "
+  },
+  {
+    "image_path": "Img (270).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of ripe strawberries sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer:\nA lot of strawberries. I see lots of them. I think it's because they're very ripe. I think that's why they're called",
+    "type": "identify",
+    "caption": "a pile of ripe strawberries sitting on top of a table "
+  },
+  {
+    "image_path": "Img (294).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a person holding a red and green flower in their hand '. \nQuestion: What fruits do you see in the picture?\nAnswer: As you can see in the picture, the flowers are in a green, which is the red one. \nQuestion: What is the reason for",
+    "type": "identify",
+    "caption": "a person holding a red and green flower in their hand "
+  },
+  {
+    "image_path": "Img (42).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'bananas'. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'bananas'. \nQuestion: What kind",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (144).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a close up picture of a bunch of purple flowers '. \nQuestion: How many fruits are in the picture?\nAnswer: 1,500\nQuestion: What is the reason for the white flowers in the picture?\nAnswer: The reason is that the plants are in the",
+    "type": "count",
+    "caption": "a close up picture of a bunch of purple flowers "
+  },
+  {
+    "image_path": "Img (138).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a black and white photo of a bunch of green and yellow flowers '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The flowers are in a variety of colors, from dark brown to black.\nQuestion: What is the color of the flowers?\nAnswer: The",
+    "type": "identify",
+    "caption": "a black and white photo of a bunch of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (112).JPG",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of yellow and green apples on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A pile of yellow and green apples on a table\nQuestion: What kind of fruit is in the picture?\nAnswer: A pile of yellow and",
+    "type": "identify",
+    "caption": "a pile of yellow and green apples on a table "
+  },
+  {
+    "image_path": "Img (299).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a red rose sitting on top of a white plate '. \nQuestion: Count how many fruits are present in the image.\nAnswer: 2,5,7. \nQuestion: How many fruits are present in the image?\nAnswer: 2,5,7.",
+    "type": "count",
+    "caption": "a red rose sitting on top of a white plate "
+  },
+  {
+    "image_path": "Img (20).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a red apple sitting next to a red apple '. \nQuestion: What fruit appears in this picture?\nAnswer: 'red apple'. \nQuestion: What fruit appears in this picture?\nAnswer: 'red apple'.  Question: What fruit appears in this",
+    "type": "identify",
+    "caption": "a red apple sitting next to a red apple "
+  },
+  {
+    "image_path": "Img (155).jpg",
+    "question": "How many banana are in the image?",
+    "answer": "'a close up view of a bunch of ripe bananas '. \nQuestion: How many banana are in the image?\nAnswer: A few dozen.\nQuestion: Is there anything in the photo that is off-center?\nAnswer: No, no, no, no.",
+    "type": "count",
+    "caption": "a close up view of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (17).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: What fruits do you see in the picture?\nAnswer: A couple of small fruit like cherries, cherries, cherries, cherries. \nQuestion: How many of the fruits in the picture",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (130).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a bunch of grapes '. \nQuestion: What fruits do you see in the picture?\nAnswer:  I would say  Grape.\nQuestion: What fruit do you see in the picture?\nAnswer:  I would say",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (41).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Count how many banana are present in the image.\nAnswer: The number is 0. It is 1.\nQuestion: What is the total number of bananas in the image?\nAnswer: 1.\nQuestion",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (181).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a green apple and a banana '. \nQuestion: Identify the fruits in the picture.\nAnswer: A green apple and a banana. \nQuestion: Is it possible to distinguish the fruit of the apple from the fruit of the banana?\nAnswer",
+    "type": "identify",
+    "caption": "a close up picture of a green apple and a banana "
+  },
+  {
+    "image_path": "Img (254).JPG",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of oranges sitting on top of each other '. \nQuestion: What kind of fruit is in the picture?\nAnswer: Fruit with a hint of a hint of a hint of a hint of a hint of a hint of a hint of a hint of a hint of a",
+    "type": "identify",
+    "caption": "a pile of oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (166).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a variety of fruits and vegetables on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: We have no clue about the fruit, but if you have any idea what it is, please share it in the comments section.\nQuestion: What",
+    "type": "identify",
+    "caption": "a variety of fruits and vegetables on a table "
+  },
+  {
+    "image_path": "Img (64).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a tree with a bunch of berries on top of it '. \nQuestion: Count how many fruits are present in the image.\nAnswer:\nQuestion: What is the size of the fruit?\nAnswer:\nQuestion: What is the fruit's shape?\nAnswer:\nQuestion:",
+    "type": "count",
+    "caption": "a tree with a bunch of berries on top of it "
+  },
+  {
+    "image_path": "Img (58).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'bunches of green bananas sitting on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A lot of bananas. \nQuestion: How do you know which type of fruit is the 'sweetest'?\nAnswer: Well, I don",
+    "type": "identify",
+    "caption": "bunches of green bananas sitting on a table "
+  },
+  {
+    "image_path": "Img (170).jpg",
+    "question": "Count how many orange are present in the image.",
+    "answer": "'a close up picture of a ripe orange '. \nQuestion: Count how many orange are present in the image.\nAnswer:  It is 1,000.  It is the number of orange seeds which is counted from the seed itself.  This means that",
+    "type": "count",
+    "caption": "a close up picture of a ripe orange "
+  },
+  {
+    "image_path": "Img (3).png",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a red apple and a green apple on a table '. \nQuestion: Count how many apple are present in the image.\nAnswer: 3\nQuestion: What is the color of the apple in the picture?\nAnswer: Red\nQuestion: What is the color of the apple in",
+    "type": "count",
+    "caption": "a red apple and a green apple on a table "
+  },
+  {
+    "image_path": "Img (243).JPG",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: There are three different types of oranges:\n- green\n- blue\n- white\n- purple\n and white. \nSource:",
+    "type": "identify",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (52).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What fruit appears in this picture?\nAnswer:  We found that the banana in this picture is the banana of the banana of the fruit.\nQuestion: What fruit is in this picture?",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (151).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a bunch of purple flowers '. \nQuestion: What fruit appears in this picture?\nAnswer: The flower is probably the 'flower of the morning'. \nQuestion: How did you find out about this picture?\nAnswer: This picture was",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of purple flowers "
+  },
+  {
+    "image_path": "Img (3).png",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a red apple and a green apple on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: They are:\n1) red apples, green apples, red apples, red apples, blue apples, yellow apples, orange apples, red apples,",
+    "type": "identify",
+    "caption": "a red apple and a green apple on a table "
+  },
+  {
+    "image_path": "Img (82).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a cluster of red berries hanging from a tree '. \nQuestion: Count how many fruits are present in the image.\nAnswer: This is a rough estimate, and is based on the fact that the image is not at full size. The image is not really a full size image",
+    "type": "count",
+    "caption": "a cluster of red berries hanging from a tree "
+  },
+  {
+    "image_path": "Img (54).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'bananas sitting on the ground '. \nQuestion: Count how many banana are present in the image.\nAnswer: 1.  Bananas are the most common fruit found in Australia, with 3.  They are found in all regions of the world.",
+    "type": "count",
+    "caption": "bananas sitting on the ground "
+  },
+  {
+    "image_path": "Img (247).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'a small number of oranges'.\nQuestion: What kind of fruit is in the picture?\nAnswer: 'a small number of oranges'.",
+    "type": "identify",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (165).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a ripe orange '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'a sweet cherry with some grapefruit'. \nQuestion: What is the best way to describe the fruit?\nAnswer: 'a sweet cherry",
+    "type": "identify",
+    "caption": "a close up picture of a ripe orange "
+  },
+  {
+    "image_path": "Img (212).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of fruit sitting on top of a wooden table '. \nQuestion: Identify the fruits in the picture.\nAnswer: I believe it is the fruit of a pile of fruit, as well as a tree.\nQuestion: What is the fruit of the pile of fruit",
+    "type": "identify",
+    "caption": "a pile of fruit sitting on top of a wooden table "
+  },
+  {
+    "image_path": "Img (55).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'bananas and a banana peel on a table '. \nQuestion: How many banana do you see in this picture??\nAnswer: \nBananas are not a part of this picture. \nQuestion: Where did you get the picture?\nAnswer: \nQuestion:",
+    "type": "count",
+    "caption": "bananas and a banana peel on a table "
+  },
+  {
+    "image_path": "Img (22).jpg",
+    "question": "Count the number of apple in the image.",
+    "answer": "'a red apple sitting on top of a green apple '. \nQuestion: Count the number of apple in the image.\nAnswer: 1. Count the number of apple in the picture.\nAnswer: 2. Count the number of apple in the picture.\nQuestion: Count the",
+    "type": "count",
+    "caption": "a red apple sitting on top of a green apple "
+  },
+  {
+    "image_path": "Img (216).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'an orange sitting on top of an orange peel '. \nQuestion: What fruit appears in this picture?\nAnswer: \nQuestion: Is it possible to see the fruit with your eyes? \nAnswer: \nQuestion: Is it possible to see the fruit",
+    "type": "identify",
+    "caption": "an orange sitting on top of an orange peel "
+  },
+  {
+    "image_path": "Img (31).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'bananas hanging from a tree '. \nQuestion: Count the number of banana in the image.\nAnswer: The number of banana in the image is approximately 100,000.\nQuestion: How many bananas are in the image?\nAnswer: The number of",
+    "type": "count",
+    "caption": "bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (53).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas and a banana peel on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: The bananas are very good. They are very good. \nQuestion: What is the difference between the banana and a banana peel?\nAnswer:",
+    "type": "identify",
+    "caption": "bananas and a banana peel on a table "
+  },
+  {
+    "image_path": "Img (49).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: They are all in the same container. They are all in the same container.\nQuestion: Do you think the pictures are actually good?\nAnswer",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (23).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of an apple and an orange '. \nQuestion: What fruits do you see in the picture?\nAnswer: They're a combination of berries, nuts and seeds. \nQuestion: Why are you using a banana or banana peel?\nAnswer: These are",
+    "type": "identify",
+    "caption": "a close up picture of an apple and an orange "
+  },
+  {
+    "image_path": "Img (15).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a red apple sitting on top of a red apple '. \nQuestion: How many apple are in the image?\nAnswer: 1. 5,000  -  -  -  -  -  -  -  -",
+    "type": "count",
+    "caption": "a red apple sitting on top of a red apple "
+  },
+  {
+    "image_path": "Img (102).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of an orange and an apple '. \nQuestion: What fruits do you see in the picture?\nAnswer: A green apple . \nQuestion: What fruits do you see in the picture?\nAnswer: A cherry . \nQuestion: What fruits do",
+    "type": "identify",
+    "caption": "a close up picture of an orange and an apple "
+  },
+  {
+    "image_path": "Img (39).jpg",
+    "question": "How many banana are in the image?",
+    "answer": "'a ripe banana sitting on top of a table '. \nQuestion: How many banana are in the image?\nAnswer: It's about 1.5\".\nQuestion: How much banana is in the picture?\nAnswer: It's about 5\". \nQuestion:",
+    "type": "count",
+    "caption": "a ripe banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (205).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a basket filled with lots of different types of fruit '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A variety of different types of fruit (fruit, fruit tree, fruit tree fruit, fruit tree fruit, fruit tree fruit, fruit tree fruit, fruit",
+    "type": "identify",
+    "caption": "a basket filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (23).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a close up picture of an apple and an orange '. \nQuestion: How many apple are in the image?\nAnswer: I have not found one. \nQuestion: How many apples are in the picture?\nAnswer: I have not found one. \nQuestion",
+    "type": "count",
+    "caption": "a close up picture of an apple and an orange "
+  },
+  {
+    "image_path": "Img (74).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a large bunch of red berries on top of a tree '. \nQuestion: Count how many fruits are present in the image.\nAnswer:  We will try to count the number of fruits in the image.  However, we cannot know for sure that a tree has fruits in",
+    "type": "count",
+    "caption": "a large bunch of red berries on top of a tree "
+  },
+  {
+    "image_path": "Img (17).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: Count how many apple are present in the image.\nAnswer: In the photo, the apple is in the center of the picture.\nQuestion: What do you mean by 'in the center' ?\nAnswer",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (101).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a close up picture of some kind of fruit '. \nQuestion: How many fruits are in the image?\nAnswer:  The number of fruits is not very large, so the color is not very vibrant.  In my opinion, the fruits are very similar",
+    "type": "count",
+    "caption": "a close up picture of some kind of fruit "
+  },
+  {
+    "image_path": "Img (256).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: A lot of fruit.\nQuestion: What is the most common fruit of the fruit tree?\nAnswer: Fruits of the trees (Bons",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (227).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a close up picture of some fruit '. \nQuestion: How many fruits do you see in this picture??\nAnswer: None \nQuestion: What is the name of the fruit you are seeing?\nAnswer: \"Kunju\"\nQuestion: What is the",
+    "type": "count",
+    "caption": "a close up picture of some fruit "
+  },
+  {
+    "image_path": "Img (41).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'Bananas sitting on top of each other'. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'Bananas sitting",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (26).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a red apple sitting on top of a green apple '. \nQuestion: What fruit appears in this picture?\nAnswer: A large red apple. \nQuestion: What fruit appears in this picture?\nAnswer: A small red apple. \nQuestion: What fruit",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a green apple "
+  },
+  {
+    "image_path": "Img (267).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a basket filled with apples and oranges '. \nQuestion: What fruits do you see in the picture?\nAnswer: apples and oranges. \nQuestion: What do you see in the picture? \nAnswer: apples and oranges. \nQuestion: What do",
+    "type": "identify",
+    "caption": "a basket filled with apples and oranges "
+  },
+  {
+    "image_path": "Img (211).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a piece of fruit sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'A green apple, a blackberry, a peach, a plum, a blueberry, a raspberry, a cherry, a plum, a raspberry",
+    "type": "identify",
+    "caption": "a piece of fruit sitting on top of a table "
+  },
+  {
+    "image_path": "Img (120).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a tree with a bunch of leaves on it '. \nQuestion: How many fruits do you see in this picture??\nAnswer:  I am assuming that all fruits are edible, but some are poisonous.  Some fruits are poisonous.  I was wondering what the",
+    "type": "count",
+    "caption": "a tree with a bunch of leaves on it "
+  },
+  {
+    "image_path": "Img (32).JPG",
+    "question": "Count the number of banana in the image.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Count the number of banana in the image.\nAnswer: There are 4 different types of bananas in the image. The banana is the first type, and the image is the second type. The first type is",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (98).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of a bunch of ripe bananas '. \nQuestion: What kind of fruit is in the picture?\nAnswer: Banana.\nQuestion: What is the name of the fruit?\nAnswer: Banana.\nQuestion: What is the name of the fruit?",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (249).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: A fruit is a very large fruit that is often found in a table. \nQuestion: Identify the fruits in the picture.\nAnswer:",
+    "type": "identify",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (201).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of unripe bananas sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: They are fruits like bananas, cherries, strawberries and grapefruit.\nQuestion: What are the fruits of the day?\nAnswer: They are",
+    "type": "identify",
+    "caption": "a pile of unripe bananas sitting on top of a table "
+  },
+  {
+    "image_path": "Img (56).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'a pile of ripe bananas sitting on top of each other '. \nQuestion: How many banana are in the picture?\nAnswer:\n1. The 'Banana' is the number of bananas in the picture.\n2. The 'Banana' is the number of bananas",
+    "type": "count",
+    "caption": "a pile of ripe bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (134).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pile of grapes sitting on top of a table '. \nQuestion: What fruit appears in this picture?\nAnswer:  A lot.  Some of the grapes are the ones that were in the garden.  Some of the grapes are the ones that",
+    "type": "identify",
+    "caption": "a pile of grapes sitting on top of a table "
+  },
+  {
+    "image_path": "Img (94).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'a pile of oranges sitting on top of each other '. \nQuestion: Count the number of orange in the image.\nAnswer: No, it's not that big. \nQuestion: How long does it take to get the orange from the top of the image?\nAnswer",
+    "type": "count",
+    "caption": "a pile of oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (61).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'bunches of ripe bananas on display at a market '. \nQuestion: Count the number of banana in the image.\nAnswer: No, but it's a good idea to keep the number low.\nQuestion: How many bananas are in the image?\nAnswer: A few",
+    "type": "count",
+    "caption": "bunches of ripe bananas on display at a market "
+  },
+  {
+    "image_path": "Img (198).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a cut in half apple sitting on top of a table '. \nQuestion: How many apple are in the image?\nAnswer: 3\nQuestion: What is the apple shape?\nAnswer: The apple is a thin, round, round, very tall apple with a very large",
+    "type": "count",
+    "caption": "a cut in half apple sitting on top of a table "
+  },
+  {
+    "image_path": "Img (23).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'a close up picture of an apple and an orange '. \nQuestion: How many orange are in the picture?\nAnswer: One (one) and a half (one) are in the picture. \nQuestion: How many orange are in the picture?\nAnswer:",
+    "type": "count",
+    "caption": "a close up picture of an apple and an orange "
+  },
+  {
+    "image_path": "Img (60).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a banana tree with a bunch of bananas hanging from it '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The fruit is a white fruit with a yellow color. \nQuestion: How many bananas do you have?\nAnswer: 1.00\nQuestion",
+    "type": "identify",
+    "caption": "a banana tree with a bunch of bananas hanging from it "
+  },
+  {
+    "image_path": "Img (57).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Count how many banana are present in the image.\nAnswer:  1- 4  -  3- 5  -  4- 6  -  7- 8",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (149).jpg",
+    "question": "How many grapes are in the picture?",
+    "answer": "'a close up picture of a bunch of grapes '. \nQuestion: How many grapes are in the picture?\nAnswer: There are about 4.5 million grapes in the world.\nQuestion: How many grapes are in the picture?\nAnswer: There are about 2",
+    "type": "count",
+    "caption": "a close up picture of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (104).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a wooden cutting board topped with a bunch of green peppers '. \nQuestion: How many fruits are in the image?\nAnswer: I am pretty sure there are 12 fruits.\nQuestion: How many fruits are in the image?\nAnswer: I am pretty sure there are 12",
+    "type": "count",
+    "caption": "a wooden cutting board topped with a bunch of green peppers "
+  },
+  {
+    "image_path": "Img (90).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a red and white striped grapefruit tree with red berries '. \nQuestion: What fruits do you see in the picture?\nAnswer: I can only assume that the fruit is grapefruit. \nQuestion: What does it look like in the picture?\nAnswer: It's a",
+    "type": "identify",
+    "caption": "a red and white striped grapefruit tree with red berries "
+  },
+  {
+    "image_path": "Img (188).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: Count the number of fruits in the image.\nAnswer: I am very interested in fruit numbers. A number of the fruits are very interesting and I like to see them. The picture is of a little girl",
+    "type": "count",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (136).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a basket filled with lots of green and yellow flowers '. \nQuestion: Identify the fruits in the picture.\nAnswer: A little more than 1/2 of the way down the left side.\nQuestion: Where is the garden in this picture?\nAnswer: In",
+    "type": "identify",
+    "caption": "a basket filled with lots of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (29).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of apples in a bowl '. \nQuestion: Count how many apple are present in the image.\nAnswer: In order to calculate the number of apples, we have to use the number of apples that are present in the image. \nQuestion: How many",
+    "type": "count",
+    "caption": "a pile of apples in a bowl "
+  },
+  {
+    "image_path": "Img (27).jpg",
+    "question": "Count the number of apple in the image.",
+    "answer": "'a tree filled with lots of red apples '. \nQuestion: Count the number of apple in the image.\nAnswer:\nThis is a very difficult question to answer.\nIn this case, I was thinking that the number of apples in the image is 100, but",
+    "type": "count",
+    "caption": "a tree filled with lots of red apples "
+  },
+  {
+    "image_path": "Img (170).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a ripe orange '. \nQuestion: What fruits do you see in the picture?\nAnswer: In the picture, it's a peach, and it's a little pink. \nQuestion: What's the difference between a pink grape and a",
+    "type": "identify",
+    "caption": "a close up picture of a ripe orange "
+  },
+  {
+    "image_path": "Img (46).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'bananas hanging from a tree '. \nQuestion: Identify the fruits in the picture.\nAnswer: \nQuestion: What are the fruits in the picture?\nAnswer: \nQuestion: What are the fruits in the picture?\nQuestion:",
+    "type": "identify",
+    "caption": "bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (179).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: How many fruits are in the image?\nAnswer: It's hard to say how many. \nQuestion: Do you have any other suggestions for this project?\nAnswer: No, I think that",
+    "type": "count",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (109).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'an orange is hanging from a tree '. \nQuestion: Count the number of orange in the image.\nAnswer: The number of orange in the image is 4 (x, y, z, 1.5, 2.0, 3.0, 4.",
+    "type": "count",
+    "caption": "an orange is hanging from a tree "
+  },
+  {
+    "image_path": "Img (21).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of an apple on a table '. \nQuestion: What fruit appears in this picture?\nAnswer: The apple is in the middle of the picture. \nQuestion: What fruit is in this picture?\nAnswer: The apple is in the middle",
+    "type": "identify",
+    "caption": "a close up picture of an apple on a table "
+  },
+  {
+    "image_path": "Img (297).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a ripe red apple '. \nQuestion: What fruits do you see in the picture?\nAnswer: The fruit is very juicy. \nQuestion: Is it edible?\nAnswer: Yes, it is. \nQuestion: What is the difference",
+    "type": "identify",
+    "caption": "a close up picture of a ripe red apple "
+  },
+  {
+    "image_path": "Img (4).jpeg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: Count how many apple are present in the image.\nAnswer: It is estimated that 1 apple is present in the picture.\nQuestion: Which apple is the most beautiful?\nAnswer: It is estimated that 2",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (185).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a bunch of different types of fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: I am told the fruits are very large, with a long tail. \nQuestion: What fruit does you see in the picture?\nAnswer:",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of different types of fruit "
+  },
+  {
+    "image_path": "Img (75).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a red apple and a green apple on a table '. \nQuestion: How many apple do you see in this picture??\nAnswer: There is one apple on the table. The picture is of the apple and the other one is a yellow apple.\nQuestion: Can you tell us",
+    "type": "count",
+    "caption": "a red apple and a green apple on a table "
+  },
+  {
+    "image_path": "Img (115).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a basket filled with lots of different types of fruit '. \nQuestion: Count how many fruits are present in the image.\nAnswer: No. \nQuestion: How many fruits are present in the image?\nAnswer: 1. \nQuestion: How many fruits are present in",
+    "type": "count",
+    "caption": "a basket filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (133).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a large amount of fresh fruit is sitting on a table '. \nQuestion: How many fruits are in the picture?\nAnswer: 3.5\nQuestion: How many bananas are in the picture?\nAnswer: 4\nQuestion: How many fruits are in the picture?",
+    "type": "count",
+    "caption": "a large amount of fresh fruit is sitting on a table "
+  },
+  {
+    "image_path": "Img (7).jpeg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a red apple sitting on top of a white plate '. \nQuestion: Identify the fruits in the picture.\nAnswer: The white plate is the fruit that has been placed in the middle of the fruit.\nQuestion: Is there a specific description of the fruit?",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a white plate "
+  },
+  {
+    "image_path": "Img (185).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a close up picture of a bunch of different types of fruit '. \nQuestion: How many fruits are in the picture?\nAnswer:  They are all kinds of fruit. \nQuestion: What type of fruit are you looking at?\nAnswer:  You can see",
+    "type": "count",
+    "caption": "a close up picture of a bunch of different types of fruit "
+  },
+  {
+    "image_path": "Img (263).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'a close up picture of an orange and a lemon '. \nQuestion: How many orange are in the picture?\nAnswer: It is 3,000. \nQuestion: What are the characteristics of the lemon?\nAnswer: It is blue. \nQuestion: What",
+    "type": "count",
+    "caption": "a close up picture of an orange and a lemon "
+  },
+  {
+    "image_path": "Img (11).jpg",
+    "question": "How many apple are in the picture?",
+    "answer": "'a pile of apples sitting on top of a table '. \nQuestion: How many apple are in the picture?\nAnswer: 3\nQuestion: What are the colors of the apples in the picture?\nAnswer: Brown\nQuestion: How many are in the picture?",
+    "type": "count",
+    "caption": "a pile of apples sitting on top of a table "
+  },
+  {
+    "image_path": "Img (220).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'two oranges sitting on top of each other '. \nQuestion: How many orange are in the picture?\nAnswer: 'Two oranges sitting on top of each other'. \nQuestion: How many orange are in the picture? Answer: 'Two oranges sitting on top",
+    "type": "count",
+    "caption": "two oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (47).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'a banana sitting on top of a table '. \nQuestion: Count how many banana are present in the image.\nAnswer: A number of different sizes. \nQuestion: If you look at the photo of the banana in question, what are the differences between the two?",
+    "type": "count",
+    "caption": "a banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (85).jpg",
+    "question": "How many apple are in the picture?",
+    "answer": "'a red rose in a red apple tree '. \nQuestion: How many apple are in the picture?\nAnswer: 5\nQuestion: How many apples are in the picture?\nAnswer: 5\nQuestion: How many apples are in the picture?\nAnswer:",
+    "type": "count",
+    "caption": "a red rose in a red apple tree "
+  },
+  {
+    "image_path": "Img (286).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of red and yellow flowers sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: I don't know, but there are so many. I have seen them in a couple of different places. I think it is very interesting.",
+    "type": "identify",
+    "caption": "a pile of red and yellow flowers sitting on top of each other "
+  },
+  {
+    "image_path": "Img (34).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'bananas hanging from a tree '. \nQuestion: How many banana do you see in this picture??\nAnswer: One hundred and twenty five.\nQuestion: How many banana do you see in this picture??\nAnswer: One hundred and twenty four.\nQuestion",
+    "type": "count",
+    "caption": "bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (88).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of red apples sitting on top of a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A small variety of 'pork'.\nQuestion: What kind of fruit is in the picture?\nAnswer: A strawberry.\nQuestion: What",
+    "type": "identify",
+    "caption": "a pile of red apples sitting on top of a table "
+  },
+  {
+    "image_path": "Img (105).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a person sitting in front of a basket of fruit '. \nQuestion: Count how many fruits are present in the image.\nAnswer: 10,000 (counting the number of apples in the basket). \nQuestion: What is the maximum number of fruits you can carry in your",
+    "type": "count",
+    "caption": "a person sitting in front of a basket of fruit "
+  },
+  {
+    "image_path": "Img (202).jpg",
+    "question": "How many banana are in the image?",
+    "answer": "'a large bunch of green and yellow bananas hanging from a tree '. \nQuestion: How many banana are in the image?\nAnswer: 5\nQuestion: How many bananas are in the image?\nAnswer: 2\nQuestion: How many bananas are in the image?\nAnswer:",
+    "type": "count",
+    "caption": "a large bunch of green and yellow bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (189).jpg",
+    "question": "Count the number of strawberry in the image.",
+    "answer": "'a close up picture of a strawberry and an orange '. \nQuestion: Count the number of strawberry in the image.\nAnswer: 'Yes, 3,000'. \nQuestion: If I was to count the number of strawberry in the picture, how many would you say were",
+    "type": "count",
+    "caption": "a close up picture of a strawberry and an orange "
+  },
+  {
+    "image_path": "Img (152).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a large amount of green and yellow flowers in a large pot '. \nQuestion: How many fruits are in the picture?\nAnswer: The following fruits are the most commonly consumed fruit in the country:\n1. Blackberry,\n2. Cherry,\n3. Pear,",
+    "type": "count",
+    "caption": "a large amount of green and yellow flowers in a large pot "
+  },
+  {
+    "image_path": "Img (154).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'a close up picture of a bunch of ripe bananas '. \nQuestion: Count the number of banana in the image.\nAnswer: The number of bananas in the picture is the number of bananas in the entire picture.\nQuestion: Is it possible to count the number of bananas in",
+    "type": "count",
+    "caption": "a close up picture of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (160).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a close up picture of a bunch of green and yellow flowers '. \nQuestion: How many fruits are in the image?\nAnswer: The image is of a small flower, but it looks like a large flower. \nQuestion: Where are the flowers?\nAnswer: In the",
+    "type": "count",
+    "caption": "a close up picture of a bunch of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (84).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a plate of fruit on a wooden table '. \nQuestion: What fruits do you see in the picture?\nAnswer: I do not know. I have never seen any fruit on a wooden table.\nQuestion: Are you sure you have not seen any fruits on a",
+    "type": "identify",
+    "caption": "a plate of fruit on a wooden table "
+  },
+  {
+    "image_path": "Img (36).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'bananas sitting on top of a table '. \nQuestion: How many banana do you see in this picture??\nAnswer: 7\nQuestion: I think I saw a banana sitting on top of a table. \nAnswer: 6\nQuestion: I think I saw a",
+    "type": "count",
+    "caption": "bananas sitting on top of a table "
+  },
+  {
+    "image_path": "Img (51).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: How many banana do you see in this picture??\nAnswer: I have no idea, but it looks like two. I was wondering if you could see any kind of a banana here.\nQuestion: Is there",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (265).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'an orange sitting on top of a white surface '. \nQuestion: Identify the fruits in the picture.\nAnswer: A fruit is one that is edible and not harmful. An orange is a vegetable that is a source of protein and a source of vitamin C.",
+    "type": "identify",
+    "caption": "an orange sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (72).jpg",
+    "question": "How many apple are in the picture?",
+    "answer": "'a close up picture of some apples '. \nQuestion: How many apple are in the picture?\nAnswer: 5.  It looks like a very small apple, but it's a good size.  It's very large in the center of the",
+    "type": "count",
+    "caption": "a close up picture of some apples "
+  },
+  {
+    "image_path": "Img (242).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: \nQuestion: What fruit do you see in the picture?\nAnswer: \nQuestion: What fruit do you see in the picture?",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (131).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a close up picture of a green leafy plant '. \nQuestion: How many fruits are in the image?\nAnswer: In a nutshell: 3.00\nQuestion: How many tomatoes are in the image? Answer: In a nutshell: 2.00\nQuestion:",
+    "type": "count",
+    "caption": "a close up picture of a green leafy plant "
+  },
+  {
+    "image_path": "Img (292).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of red and green apples on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The fruit pictured is a fruit called 'Rhodiola'. \nQuestion: How old are you?\nAnswer: It is unknown how old the",
+    "type": "identify",
+    "caption": "a pile of red and green apples on a table "
+  },
+  {
+    "image_path": "Img (218).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a tree with a bunch of green bananas hanging from it '. \nQuestion: What fruits do you see in the picture?\nAnswer: I have seen a lot of fruit from this tree, but not many of them. I have seen a lot of fruits from the garden area. I",
+    "type": "identify",
+    "caption": "a tree with a bunch of green bananas hanging from it "
+  },
+  {
+    "image_path": "Img (293).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of fresh fruit on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: A pile of fresh fruit on top of each other. \nQuestion: Why do you think that's so?\nAnswer: Because I don't",
+    "type": "identify",
+    "caption": "a pile of fresh fruit on top of each other "
+  },
+  {
+    "image_path": "Img (184).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a close up picture of a fruit and vegetable '. \nQuestion: Count the number of fruits in the image.\nAnswer: 1,000. \nQuestion: What are the colors of the fruit and vegetable?\nAnswer: The color is 'yellow'. \nQuestion",
+    "type": "count",
+    "caption": "a close up picture of a fruit and vegetable "
+  },
+  {
+    "image_path": "Img (154).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a bunch of ripe bananas '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruit is the same as the fruit pictured above. \nQuestion: Identify the seeds in the picture.\nAnswer: The seeds are the",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (143).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a row of red and yellow flowers on a table '. \nQuestion: How many fruits do you see in this picture??\nAnswer: It is not possible to see all of them.\nQuestion: Is it possible to get an idea of the amount of fruit in this picture??",
+    "type": "count",
+    "caption": "a row of red and yellow flowers on a table "
+  },
+  {
+    "image_path": "Img (123).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a wooden table topped with lots of different types of fruit '. \nQuestion: What fruit appears in this picture?\nAnswer: A bunch of different kinds of fruit. \nQuestion: What fruit appears in this picture?\nAnswer: A bunch of different kinds of fruit.",
+    "type": "identify",
+    "caption": "a wooden table topped with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (50).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'bananas on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: The following are fruits which are called fruit. \nQuestion: Identify the fruits in the picture.\nAnswer: The following are fruits which are",
+    "type": "identify",
+    "caption": "bananas on a table "
+  },
+  {
+    "image_path": "Img (30).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Count the number of banana in the image.\nAnswer: It depends. In my opinion, the most common answer is 1.\nQuestion: If I buy bananas, how many bananas do I get?",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (214).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'an orange sitting on top of a green plant '. \nQuestion: What fruit appears in this picture?\nAnswer: The fruit is a small pink tree.\nQuestion: What is the name of this tree?\nAnswer: It is called the Fruits tree.",
+    "type": "identify",
+    "caption": "an orange sitting on top of a green plant "
+  },
+  {
+    "image_path": "Img (161).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'various fruits and vegetables displayed on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: A large variety of fruits and vegetables.\nQuestion: What vegetables do you see in the picture? Answer: A variety of vegetables.\nQuestion:",
+    "type": "identify",
+    "caption": "various fruits and vegetables displayed on a table "
+  },
+  {
+    "image_path": "Img (164).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'a close up picture of an orange and an apple '. \nQuestion: How many orange are in the picture?\nAnswer: 1. 3 Orange\nQuestion: How many orange are in the picture?\nAnswer: 1. 3 Orange\nQuestion: How many orange are in",
+    "type": "count",
+    "caption": "a close up picture of an orange and an apple "
+  },
+  {
+    "image_path": "Img (50).jpg",
+    "question": "How many banana do you see in this picture??",
+    "answer": "'bananas on a table '. \nQuestion: How many banana do you see in this picture??\nAnswer: I saw it in my local supermarket. \nQuestion: How many bananas do you see in this picture??\nAnswer: I saw it in my",
+    "type": "count",
+    "caption": "bananas on a table "
+  },
+  {
+    "image_path": "Img (59).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: bananas, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana,",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (9).jpeg",
+    "question": "How many orange are in the image?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: How many orange are in the image?\nAnswer:  There are about 3 oranges in the picture. \nQuestion: What type of fruit are you eating?\nAnswer:  I don",
+    "type": "count",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (282).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pair of ripe strawberries sitting on top of each other '. \nQuestion: What fruit appears in this picture?\nAnswer:  There are a number of different varieties of berries, which can be found in different varieties of fruit.  The fruit of the same variety",
+    "type": "identify",
+    "caption": "a pair of ripe strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (6).png",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a red and white cherry blossom '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruit is clearly in the picture. \nQuestion: How is the photo taken?\nAnswer: The photo is taken using a Sony A7",
+    "type": "identify",
+    "caption": "a close up picture of a red and white cherry blossom "
+  },
+  {
+    "image_path": "Img (71).jpg",
+    "question": "Count the number of apple in the image.",
+    "answer": "'a red apple sitting on top of a white apple '. \nQuestion: Count the number of apple in the image.\nAnswer: It depends on the size of the apple.\nQuestion: Which is the apple in the image?\nAnswer: It is the apple in the picture",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white apple "
+  },
+  {
+    "image_path": "Img (125).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a small bird perched on a branch of a tree '. \nQuestion: Identify the fruits in the picture.\nAnswer: No. \nQuestion: Who should be named as the official representative of the Indian government?\nAnswer: The name of the official representative is required",
+    "type": "identify",
+    "caption": "a small bird perched on a branch of a tree "
+  },
+  {
+    "image_path": "Img (244).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'an orange sitting on top of a green plant '. \nQuestion: Identify the fruits in the picture.\nAnswer: The orange is in the middle of the picture.\nQuestion: How can I tell if the fruit is orange or not?\nAnswer: The orange",
+    "type": "identify",
+    "caption": "an orange sitting on top of a green plant "
+  },
+  {
+    "image_path": "Img (210).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'a close up picture of an orange on a table '. \nQuestion: How many orange are in the image?\nAnswer: There are only 4. \nQuestion: How many of these orange are in the image?\nAnswer: There are only 4. \nQuestion",
+    "type": "count",
+    "caption": "a close up picture of an orange on a table "
+  },
+  {
+    "image_path": "Img (174).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a plate of fruit on a table '. \nQuestion: Count how many fruits are present in the image.\nAnswer: Count the number of fruits in the image. \nQuestion: Count how many fruits are present in the image.\nAnswer: Count how many fruits",
+    "type": "count",
+    "caption": "a plate of fruit on a table "
+  },
+  {
+    "image_path": "Img (73).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a close up picture of a red and white grapefruit '. \nQuestion: How many fruits do you see in this picture??\nAnswer: A few hundred or more. \nQuestion: How many fruits do you see in this picture??\nAnswer: About ten or eleven.",
+    "type": "count",
+    "caption": "a close up picture of a red and white grapefruit "
+  },
+  {
+    "image_path": "Img (126).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a black and white photo of a bunch of grapes '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The fruit is not very much. The fruit is a fruit of the same color as the grapes.\nQuestion: What kind of fruit is in the",
+    "type": "identify",
+    "caption": "a black and white photo of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (4).jpeg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The picture is of a red apple sitting on a white surface.\nQuestion: What type of fruit is in the picture?\nAnswer: The picture",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (121).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a ripe apple '. \nQuestion: What fruit appears in this picture?\nAnswer: A ripe apple .\nQuestion: What fruit appears in this picture?\nAnswer: A ripe apple . Question: What fruit appears in this picture?",
+    "type": "identify",
+    "caption": "a close up picture of a ripe apple "
+  },
+  {
+    "image_path": "Img (40).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'bananas hanging from a tree '. \nQuestion: How many banana are in the picture?\nAnswer: 3,000 . \nQuestion: What is the size of the banana?\nAnswer: 1,000 . \nQuestion: What is the",
+    "type": "count",
+    "caption": "bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (271).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a red and white plate topped with a bunch of strawberries '. \nQuestion: Count how many fruits are present in the image.\nAnswer: The first number is the number of berries in the photo. \nQuestion: Count how many strawberries are present in the image.\nAnswer: The",
+    "type": "count",
+    "caption": "a red and white plate topped with a bunch of strawberries "
+  },
+  {
+    "image_path": "Img (189).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a strawberry and an orange '. \nQuestion: Identify the fruits in the picture.\nAnswer: The strawberry and orange are the same colour, but they are different fruit. \nQuestion: Is there any particular name of the fruit?\nAnswer",
+    "type": "identify",
+    "caption": "a close up picture of a strawberry and an orange "
+  },
+  {
+    "image_path": "Img (194).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a series of photos showing different types of apples '. \nQuestion: What fruit appears in this picture?\nAnswer: A lot of different varieties of apples. \nQuestion: How do you define \"apple\"?\nAnswer: A fruit of the family Bonsai",
+    "type": "identify",
+    "caption": "a series of photos showing different types of apples "
+  },
+  {
+    "image_path": "Img (280).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a close up picture of a ripe red rose '. \nQuestion: How many fruits are in the picture?\nAnswer: The picture is taken of the ripe red rose, which is about 5 cm long and about 5 cm wide, with a dark greenish, yellowish",
+    "type": "count",
+    "caption": "a close up picture of a ripe red rose "
+  },
+  {
+    "image_path": "Img (88).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a pile of red apples sitting on top of a table '. \nQuestion: How many apple do you see in this picture??\nAnswer:\nAnswer:\nQuestion: How many apples are there in this picture ?\nAnswer:\nQuestion: How many apples are there in this picture ?",
+    "type": "count",
+    "caption": "a pile of red apples sitting on top of a table "
+  },
+  {
+    "image_path": "Img (181).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a close up picture of a green apple and a banana '. \nQuestion: How many apple are in the image?\nAnswer: It is probably around 11.\nQuestion: How many banana are in the picture?\nAnswer: Probably around 20.\nQuestion: How many banana",
+    "type": "count",
+    "caption": "a close up picture of a green apple and a banana "
+  },
+  {
+    "image_path": "Img (237).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'two oranges sitting on top of each other '. \nQuestion: How many orange are in the picture?\nAnswer: 3\nQuestion: Do you think the picture was taken with the same lens as the one used?\nAnswer: Yes, I think it was taken",
+    "type": "count",
+    "caption": "two oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (153).jpg",
+    "question": "How many apple are in the picture?",
+    "answer": "'a pile of ripe and unripe ripe apples '. \nQuestion: How many apple are in the picture?\nAnswer: 5. \nQuestion: Do you know the name of the apples in the picture?\nAnswer: Yes, I know it's the name of",
+    "type": "count",
+    "caption": "a pile of ripe and unripe ripe apples "
+  },
+  {
+    "image_path": "Img (68).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a red basket filled with lots of green apples '. \nQuestion: How many apple do you see in this picture??\nAnswer: 5\nQuestion: What was the fruit you got from this picture?\nAnswer: 2\nQuestion: What was the fruit you got from this picture",
+    "type": "count",
+    "caption": "a red basket filled with lots of green apples "
+  },
+  {
+    "image_path": "Img (38).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'a banana sitting on top of a table '. \nQuestion: How many banana are in the picture?\nAnswer: 1. The banana sitting on the table. 2. The banana sitting on top of the table. 3. The banana sitting on top of the table",
+    "type": "count",
+    "caption": "a banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (54).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'bananas sitting on the ground '. \nQuestion: What kind of fruit is in the picture?\nAnswer: Banana is a small green fruit.\nQuestion: What kind of fruit is in the picture?\nAnswer: Banana is a small green fruit.",
+    "type": "identify",
+    "caption": "bananas sitting on the ground "
+  },
+  {
+    "image_path": "Img (259).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: How many orange are in the image?\nAnswer: 8.  The figure is not as large as the image.  The image is probably a bit too small for the actual size of the",
+    "type": "count",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (248).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'two oranges sitting side by side on a table '. \nQuestion: Count the number of orange in the image.\nAnswer: 1 (0.001)\nQuestion: Count the number of oranges in the image.\nAnswer: 1 (0.001)\nQuestion:",
+    "type": "count",
+    "caption": "two oranges sitting side by side on a table "
+  },
+  {
+    "image_path": "Img (117).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a tree with a bunch of leaves on top of it '. \nQuestion: Count how many fruits are present in the image.\nAnswer: 5\nQuestion: What is the name of the fruit?\nAnswer: A tree with a bunch of leaves on top of it\nQuestion: What",
+    "type": "count",
+    "caption": "a tree with a bunch of leaves on top of it "
+  },
+  {
+    "image_path": "Img (111).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a plant that is growing in a tree '. \nQuestion: Count the number of fruits in the image.\nAnswer:  There are no fruits in the image. \nQuestion: Count the number of leaves in the image.\nAnswer:  There are",
+    "type": "count",
+    "caption": "a plant that is growing in a tree "
+  },
+  {
+    "image_path": "Img (247).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: Count the number of orange in the image.\nAnswer: No, it is not. It is the amount of orange that can be seen in the image. It is the ratio of the orange color to the",
+    "type": "count",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (212).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a pile of fruit sitting on top of a wooden table '. \nQuestion: How many fruits are in the image?\nAnswer: 2\nQuestion: Is this the same picture as the one in the first picture?\nAnswer: 4\nQuestion: Is this the same picture as",
+    "type": "count",
+    "caption": "a pile of fruit sitting on top of a wooden table "
+  },
+  {
+    "image_path": "Img (236).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: The fruit of the same species. \nQuestion: What is the color of the fruit in the picture?\nAnswer: The color of the fruit",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (66).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a bowl filled with lots of fresh fruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: It is possible to identify the fruits by the color of the leaves, but only by the color of the leaf, so the fruit does not have a",
+    "type": "identify",
+    "caption": "a bowl filled with lots of fresh fruit "
+  },
+  {
+    "image_path": "Img (284).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a pair of ripe strawberries sitting on top of each other '. \nQuestion: Count how many fruits are present in the image.\nAnswer: The answer is that there are about ten of them. \nQuestion: The answer is that there are three, but the last one is different from",
+    "type": "count",
+    "caption": "a pair of ripe strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (260).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'an orange sitting on top of a green plant '. \nQuestion: Count the number of orange in the image.\nAnswer: No, it's not. \nQuestion: Count the number of orange in the image. \nAnswer: No, it's not.",
+    "type": "count",
+    "caption": "an orange sitting on top of a green plant "
+  },
+  {
+    "image_path": "Img (187).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: Count how many fruits are present in the image.\nAnswer: \nThe image has an odd color with only one part of the fruit present.\nQuestion: If I was to guess which type of fruit is",
+    "type": "count",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (204).JPG",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a tree filled with lots of green and yellow fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: A large variety of fruits, including a variety of nuts and seeds. \nQuestion: What is your favourite fruit?\nAnswer: A variety of",
+    "type": "identify",
+    "caption": "a tree filled with lots of green and yellow fruit "
+  },
+  {
+    "image_path": "Img (237).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'two oranges sitting on top of each other '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A couple of apples, a lemon and a pear. \nQuestion: Is there a picture of the fruit?\nAnswer: Yes.",
+    "type": "identify",
+    "caption": "two oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (128).jpg",
+    "question": "Count the number of grapes in the image.",
+    "answer": "'a close up picture of some grapes on a table '. \nQuestion: Count the number of grapes in the image.\nAnswer: In the case of the picture in question, it is impossible to know the number of grapes in the picture. Therefore, the number of grapes is not",
+    "type": "count",
+    "caption": "a close up picture of some grapes on a table "
+  },
+  {
+    "image_path": "Img (103).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pair of hands holding a small piece of food '. \nQuestion: What fruit appears in this picture?\nAnswer: It's a banana. \nQuestion: Is the fruit edible?\nAnswer: Yes, the fruit is edible. \nQuestion: Is it",
+    "type": "identify",
+    "caption": "a pair of hands holding a small piece of food "
+  },
+  {
+    "image_path": "Img (231).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'a close up picture of an orange on a tree '. \nQuestion: How many orange are in the image?\nAnswer: A total of three. \nQuestion: Is this orange on the tree? \nAnswer: Yes. \nQuestion: What is the size",
+    "type": "count",
+    "caption": "a close up picture of an orange on a tree "
+  },
+  {
+    "image_path": "Img (107).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a small bird sitting on top of a plant '. \nQuestion: Count how many fruits are present in the image.\nAnswer:  \"a small bird sitting on top of a plant\". \nQuestion: Count how many fruits are present in the image.\nAnswer:",
+    "type": "count",
+    "caption": "a small bird sitting on top of a plant "
+  },
+  {
+    "image_path": "Img (58).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'bunches of green bananas sitting on a table '. \nQuestion: How many banana are in the picture?\nAnswer: 2,000 .\nQuestion: How many bananas are in the picture?\nAnswer: 2,000 .\nQuestion: How many bananas are in",
+    "type": "count",
+    "caption": "bunches of green bananas sitting on a table "
+  },
+  {
+    "image_path": "Img (81).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a pile of red and yellow flowers on a table '. \nQuestion: Count how many fruits are present in the image.\nAnswer: 3. The number of fruits present in the image is equal to the number of leaves on the table.\nQuestion: How many leaves are there on",
+    "type": "count",
+    "caption": "a pile of red and yellow flowers on a table "
+  },
+  {
+    "image_path": "Img (193).JPG",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a box filled with lots of different types of vegetables '. \nQuestion: What kind of fruit is in the picture?\nAnswer: I think this one is the most important. It is a small variety of fruits, with a few small fruits on the sides.\nQuestion: How",
+    "type": "identify",
+    "caption": "a box filled with lots of different types of vegetables "
+  },
+  {
+    "image_path": "Img (299).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a red rose sitting on top of a white plate '. \nQuestion: What fruits do you see in the picture?\nAnswer:  I've been eating some fruits for a while and I think I see a lot of fruits.  Some of them are really juicy,",
+    "type": "identify",
+    "caption": "a red rose sitting on top of a white plate "
+  },
+  {
+    "image_path": "Img (230).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'an orange hanging from a tree '. \nQuestion: How many orange are in the image?\nAnswer: The following is an estimate of the number of orange trees in the photo: the orange is about 0.6% of the total number of trees in",
+    "type": "count",
+    "caption": "an orange hanging from a tree "
+  },
+  {
+    "image_path": "Img (57).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: Fruit of the tree. \nQuestion: What is the name of the fruit?\nAnswer: Strawberry . \nQuestion: What is the name",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (180).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of three different types of fruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruits are red, green and blue. \nQuestion: What is the name of the fruit?\nAnswer: The name is a combination of",
+    "type": "identify",
+    "caption": "a close up picture of three different types of fruit "
+  },
+  {
+    "image_path": "Img (234).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'two oranges sitting on top of each other '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A single apple. \nQuestion: How many fruits are in the picture?\nAnswer: Three or four. \nQuestion: What are the",
+    "type": "identify",
+    "caption": "two oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (177).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'three different types of fruit sitting on top of each other '. \nQuestion: What fruit appears in this picture?\nAnswer: 'The fruit is red, yellow and green. The fruit is black, green and white.' \nQuestion: What is the color of this picture",
+    "type": "identify",
+    "caption": "three different types of fruit sitting on top of each other "
+  },
+  {
+    "image_path": "Img (75).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a red apple and a green apple on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer:\nA red apple and a green apple on a table. \nQuestion: What kind of fruit is in the picture?\nAnswer:\nA",
+    "type": "identify",
+    "caption": "a red apple and a green apple on a table "
+  },
+  {
+    "image_path": "Img (15).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a red apple sitting on top of a red apple '. \nQuestion: What fruits do you see in the picture?\nAnswer: The fruits are all very yellow with some of the red fruits being green. \nQuestion: What do you think of the picture of the apple?",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a red apple "
+  },
+  {
+    "image_path": "Img (217).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up view of an orange on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer:\nA fruit can be anything from the white plum to the pink plum. \nQuestion: What color is in the picture?\nAnswer:",
+    "type": "identify",
+    "caption": "a close up view of an orange on a table "
+  },
+  {
+    "image_path": "Img (114).jpg",
+    "question": "How many orange are in the picture?",
+    "answer": "'an orange hanging from a tree '. \nQuestion: How many orange are in the picture?\nAnswer: Some orange is used for the red in the image. \nQuestion: How many orange are in the picture?\nAnswer: Some orange is used",
+    "type": "count",
+    "caption": "an orange hanging from a tree "
+  },
+  {
+    "image_path": "Img (287).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a pile of fruit sitting on top of a table '. \nQuestion: How many fruits are in the image?\nAnswer: 6.  The picture is of a pile of fruit sitting on top of a table. \nQuestion: How many fruits are in the image",
+    "type": "count",
+    "caption": "a pile of fruit sitting on top of a table "
+  },
+  {
+    "image_path": "Img (195).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a green and white apple '. \nQuestion: What fruit appears in this picture?\nAnswer: This picture is from a very close up picture of a green and white apple. \nQuestion: Is it possible to see the green apple in this",
+    "type": "identify",
+    "caption": "a close up picture of a green and white apple "
+  },
+  {
+    "image_path": "Img (51).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Identify the fruits in the picture.\nAnswer:  I don't know what they are, but the banana is in the picture.\nQuestion: Can you tell me where the banana is in",
+    "type": "identify",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (167).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a close up picture of a bunch of different types of fruit '. \nQuestion: Count how many fruits are present in the image.\nAnswer: 2,000\nQuestion: How many fruits are present in the image?\nAnswer: 1,000\nQuestion: How many fruits are present in",
+    "type": "count",
+    "caption": "a close up picture of a bunch of different types of fruit "
+  },
+  {
+    "image_path": "Img (230).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'an orange hanging from a tree '. \nQuestion: What fruit appears in this picture?\nAnswer: I have no idea. \nQuestion: What is your favorite color?\nAnswer: I love oranges, but I have no idea.",
+    "type": "identify",
+    "caption": "an orange hanging from a tree "
+  },
+  {
+    "image_path": "Img (63).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a cluster of fruit hanging from a tree '. \nQuestion: How many fruits are in the image?\nAnswer: The fruit is in a tree at the top of the picture. The image is the same as above. \nQuestion: How many fruits are in",
+    "type": "count",
+    "caption": "a cluster of fruit hanging from a tree "
+  },
+  {
+    "image_path": "Img (233).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of oranges on a table '. \nQuestion: What fruit appears in this picture?\nAnswer: The picture is from the 'Orange's Family' web page. The fruit is called 'Aunty', which means 'Aunty' on",
+    "type": "identify",
+    "caption": "a close up picture of oranges on a table "
+  },
+  {
+    "image_path": "Img (253).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'two oranges sitting next to each other on a table '. \nQuestion: How many orange are in the image?\nAnswer: Two oranges (the orange in the middle of the image) and a couple of bananas (the banana in the middle of the image). \nQuestion",
+    "type": "count",
+    "caption": "two oranges sitting next to each other on a table "
+  },
+  {
+    "image_path": "Img (281).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a pile of red and green strawberries on top of a table '. \nQuestion: How many fruits are in the picture?\nAnswer: The number of fruits is 1. \nQuestion: How many bananas are in the picture?\nAnswer: The number of bananas is 2.",
+    "type": "count",
+    "caption": "a pile of red and green strawberries on top of a table "
+  },
+  {
+    "image_path": "Img (216).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'an orange sitting on top of an orange peel '. \nQuestion: Count the number of orange in the image.\nAnswer: 3\nQuestion: What type of orange does the orange stand for?\nAnswer: Orange\nQuestion: What color do the orange stand for?",
+    "type": "count",
+    "caption": "an orange sitting on top of an orange peel "
+  },
+  {
+    "image_path": "Img (142).jpg",
+    "question": "How many banana are in the picture?",
+    "answer": "'a close up picture of a bunch of green bananas '. \nQuestion: How many banana are in the picture?\nAnswer: It's 5.\nQuestion: How many bananas are in the picture? Answer: It's 5.\nQuestion: How many bananas are in the",
+    "type": "count",
+    "caption": "a close up picture of a bunch of green bananas "
+  },
+  {
+    "image_path": "Img (104).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a wooden cutting board topped with a bunch of green peppers '. \nQuestion: What fruits do you see in the picture?\nAnswer: \"Green peppers\" are the same as \"green\" peppers. Green peppers are green when planted in the ground, green when planted on a field,",
+    "type": "identify",
+    "caption": "a wooden cutting board topped with a bunch of green peppers "
+  },
+  {
+    "image_path": "Img (93).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a white plate topped with different types of food '. \nQuestion: What fruits do you see in the picture?\nAnswer: I'm sure there are many fruits. \nQuestion: What is your favorite kind of coffee?\nAnswer: I think it's coffee.",
+    "type": "identify",
+    "caption": "a white plate topped with different types of food "
+  },
+  {
+    "image_path": "Img (35).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'bananas and a banana peel on a table '. \nQuestion: Count the number of banana in the image.\nAnswer: The image is a bit of a mess. \nQuestion: What is the best method of achieving a high-quality image?\nAnswer: The",
+    "type": "count",
+    "caption": "bananas and a banana peel on a table "
+  },
+  {
+    "image_path": "Img (274).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a bowl filled with a bunch of fresh fruit '. \nQuestion: What fruit appears in this picture?\nAnswer: The fruit is of the sort described by the author.\nQuestion: Is there any fruit on this page?\nAnswer: No.\nQuestion:",
+    "type": "identify",
+    "caption": "a bowl filled with a bunch of fresh fruit "
+  },
+  {
+    "image_path": "Img (38).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a banana sitting on top of a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: Fruit of the year\nQuestion: What kind of fruit is in the picture?\nAnswer: Fruit of the year\nQuestion: What kind of fruit",
+    "type": "identify",
+    "caption": "a banana sitting on top of a table "
+  },
+  {
+    "image_path": "Img (251).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: There are several fruits that are not pictured.\nQuestion: In order to understand the fruit, you need to know what it is.\nAnswer:",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (173).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a green and white grapefruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruit is red and white.\nQuestion: What is the color of the fruit?\nAnswer: The color is blue.\nQuestion: Why",
+    "type": "identify",
+    "caption": "a close up picture of a green and white grapefruit "
+  },
+  {
+    "image_path": "Img (264).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of oranges sitting in a box '. \nQuestion: Identify the fruits in the picture.\nAnswer: In this case it is a fruit of the same genus as the fruit.\nQuestion: What does it look like?\nAnswer: It has a",
+    "type": "identify",
+    "caption": "a pile of oranges sitting in a box "
+  },
+  {
+    "image_path": "Img (27).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a tree filled with lots of red apples '. \nQuestion: Identify the fruits in the picture.\nAnswer:\nIn the picture, a tree with red apples is located in the middle of the field.\nQuestion: Identify the fruits in the picture.",
+    "type": "identify",
+    "caption": "a tree filled with lots of red apples "
+  },
+  {
+    "image_path": "Img (126).jpg",
+    "question": "Count how many grapes are present in the image.",
+    "answer": "'a black and white photo of a bunch of grapes '. \nQuestion: Count how many grapes are present in the image.\nAnswer:\nQuestion: In the picture, the wine is the same size as the grapes. \nAnswer:\nQuestion: In the picture, the wine",
+    "type": "count",
+    "caption": "a black and white photo of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (149).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a bunch of grapes '. \nQuestion: What fruits do you see in the picture?\nAnswer: 'The fruit that is most important is the grapes, which are the most important in the world. And the most important is the grape that is most",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of grapes "
+  },
+  {
+    "image_path": "Img (128).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of some grapes on a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: We think that grapes are called 'pines' because they are called the 'pines of the world' and that grapes are called 'pines",
+    "type": "identify",
+    "caption": "a close up picture of some grapes on a table "
+  },
+  {
+    "image_path": "Img (272).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a box filled with lots of different types of fruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: 'a box filled with lots of different types of fruit'.\nQuestion: Is it possible to identify the fruit in the picture?\nAnswer: '",
+    "type": "identify",
+    "caption": "a box filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (300).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of red and white strawberries on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: The strawberries are the ones that have been used as a flavoring in many products. \nQuestion: What is the difference between 'a pile of",
+    "type": "identify",
+    "caption": "a pile of red and white strawberries on top of each other "
+  },
+  {
+    "image_path": "Img (199).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a basket filled with lots of different types of fruit '. \nQuestion: What kind of fruit is in the picture?\nAnswer: Fruit that is a lot of different colours, like banana, orange, black and blue.\nQuestion: What type of fruit is in the picture?",
+    "type": "identify",
+    "caption": "a basket filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (172).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: This picture was taken in the morning and afternoon of June 10th. The fruit was in the middle of the night and there was no light in the",
+    "type": "identify",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (206).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'an orange and an apple on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: Fruit, orange, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple, pineapple,",
+    "type": "identify",
+    "caption": "an orange and an apple on a table "
+  },
+  {
+    "image_path": "Img (291).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of fruit sitting on top of a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: As of the date of this post, the picture is in the form of a 'spoon of fruit'. \nQuestion: Who were these fruits",
+    "type": "identify",
+    "caption": "a pile of fruit sitting on top of a table "
+  },
+  {
+    "image_path": "Img (6).png",
+    "question": "How many cherry are in the image?",
+    "answer": "'a close up picture of a red and white cherry blossom '. \nQuestion: How many cherry are in the image?\nAnswer:  I am not sure.  I think the most common ones are about 1/3 of the size of a cherry.  I",
+    "type": "count",
+    "caption": "a close up picture of a red and white cherry blossom "
+  },
+  {
+    "image_path": "Img (175).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a close up picture of some fresh fruit '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits is calculated by dividing the number of apples by the number of apples, and dividing the number of apples by the number of apples.",
+    "type": "count",
+    "caption": "a close up picture of some fresh fruit "
+  },
+  {
+    "image_path": "Img (224).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'vegetables on a cutting board '. \nQuestion: How many fruits are in the picture?\nAnswer:  It is not easy to determine the number of fruits.  It is not possible to determine the number of fruits in the picture.",
+    "type": "count",
+    "caption": "vegetables on a cutting board "
+  },
+  {
+    "image_path": "Img (158).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a bunch of purple flowers '. \nQuestion: What fruit appears in this picture?\nAnswer: This picture is from the 'Romeo & Juliet' album.\nQuestion: What does this picture mean?\nAnswer: This picture is from",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of purple flowers "
+  },
+  {
+    "image_path": "Img (89).jpg",
+    "question": "Count how many apple are present in the image.",
+    "answer": "'a pile of red apples sitting on top of each other '. \nQuestion: Count how many apple are present in the image.\nAnswer: There are 2,001 apples in the picture. \nQuestion: How many apples are present in the image.\nAnswer: There are 1,",
+    "type": "count",
+    "caption": "a pile of red apples sitting on top of each other "
+  },
+  {
+    "image_path": "Img (208).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a basket filled with lots of green and yellow flowers '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The picture has 'a bunch of bananas' as the background.\nQuestion: What type of fruit is in the picture?\nAnswer: The picture",
+    "type": "identify",
+    "caption": "a basket filled with lots of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (161).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'various fruits and vegetables displayed on a table '. \nQuestion: Count the number of fruits in the image.\nAnswer: 0.01 = 1.00\nQuestion: Count the number of vegetables in the image.\nAnswer: 1.00 = 1.00",
+    "type": "count",
+    "caption": "various fruits and vegetables displayed on a table "
+  },
+  {
+    "image_path": "Img (123).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a wooden table topped with lots of different types of fruit '. \nQuestion: How many fruits do you see in this picture??\nAnswer: About a dozen.\nQuestion: What's your favourite part of the game?\nAnswer: The game is very fun and easy to play, but",
+    "type": "count",
+    "caption": "a wooden table topped with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (196).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'a close up picture of a ripe orange '. \nQuestion: Count the number of orange in the image.\nAnswer: 0. \nQuestion: The number of oranges in the image.\nAnswer: 1. \nQuestion: The number of oranges in the image",
+    "type": "count",
+    "caption": "a close up picture of a ripe orange "
+  },
+  {
+    "image_path": "Img (213).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a large tree with a bunch of green bananas '. \nQuestion: What fruits do you see in the picture?\nAnswer: Green bananas, as seen in the picture, are very important in the fruit industry. The most important fruits of the banana industry are bananas. The green",
+    "type": "identify",
+    "caption": "a large tree with a bunch of green bananas "
+  },
+  {
+    "image_path": "Img (248).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'two oranges sitting side by side on a table '. \nQuestion: What fruit appears in this picture?\nAnswer:  This picture appears to be of a fruit. \nQuestion: What fruit appears in this picture?\nAnswer:  This picture appears",
+    "type": "identify",
+    "caption": "two oranges sitting side by side on a table "
+  },
+  {
+    "image_path": "Img (138).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a black and white photo of a bunch of green and yellow flowers '. \nQuestion: How many fruits do you see in this picture??\nAnswer: The picture was taken at the time of the publication of the story. \nQuestion: What is the meaning of the word 'virgin' ?",
+    "type": "count",
+    "caption": "a black and white photo of a bunch of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (49).jpg",
+    "question": "Count the number of banana in the image.",
+    "answer": "'bananas sitting on top of each other '. \nQuestion: Count the number of banana in the image.\nAnswer: 1 1 1\nQuestion: How many bananas are there in the image?\nAnswer: 4\nQuestion: How many bananas are there in the image",
+    "type": "count",
+    "caption": "bananas sitting on top of each other "
+  },
+  {
+    "image_path": "Img (117).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a tree with a bunch of leaves on top of it '. \nQuestion: What fruits do you see in the picture?\nAnswer: I see a lot of fruits in the picture. I'm not sure how many of them are there.\nQuestion: Why did you leave the picture",
+    "type": "identify",
+    "caption": "a tree with a bunch of leaves on top of it "
+  },
+  {
+    "image_path": "Img (98).jpg",
+    "question": "How many banana are in the image?",
+    "answer": "'a close up picture of a bunch of ripe bananas '. \nQuestion: How many banana are in the image?\nAnswer: 1,000.\nQuestion: How many bananas are in the picture?\nAnswer: 1,000.\nQuestion: How many bananas are in",
+    "type": "count",
+    "caption": "a close up picture of a bunch of ripe bananas "
+  },
+  {
+    "image_path": "Img (81).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of red and yellow flowers on a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: The flowers are red, yellow and green.\nQuestion: Explain what is in the picture.\nAnswer: The picture is a big pile of red",
+    "type": "identify",
+    "caption": "a pile of red and yellow flowers on a table "
+  },
+  {
+    "image_path": "Img (171).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: How many fruits do you see in this picture??\nAnswer: It is very difficult to find the exact number of fruits. We have had fruit that is about 10 cm (3 inches) long. It is very",
+    "type": "count",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (156).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of grapes on top of a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: A pile of grapes on top of a table. \nQuestion: What fruits do you see in the picture?\nAnswer: A pile of grapes",
+    "type": "identify",
+    "caption": "a pile of grapes on top of a table "
+  },
+  {
+    "image_path": "Img (179).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of two different types of fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: A lot of fruits. \nQuestion: How do you feel about the 'Dangerous Fruit' and 'Sugar' pictures?\nAnswer",
+    "type": "identify",
+    "caption": "a close up picture of two different types of fruit "
+  },
+  {
+    "image_path": "Img (228).jpg",
+    "question": "How many orange are in the image?",
+    "answer": "'two ripe oranges sitting on top of each other '. \nQuestion: How many orange are in the image?\nAnswer: Two.\nQuestion: How many oranges are in the picture?\nAnswer: One.\nQuestion: How many oranges are in the picture?",
+    "type": "count",
+    "caption": "two ripe oranges sitting on top of each other "
+  },
+  {
+    "image_path": "Img (146).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of different types of fruits on top of each other '. \nQuestion: Identify the fruits in the picture.\nAnswer: The picture is not the same as the picture in the dictionary. The picture is not a picture of a bunch of different kinds of fruit.",
+    "type": "identify",
+    "caption": "a pile of different types of fruits on top of each other "
+  },
+  {
+    "image_path": "Img (7).jpeg",
+    "question": "Count the number of apple in the image.",
+    "answer": "'a red apple sitting on top of a white plate '. \nQuestion: Count the number of apple in the image.\nAnswer: The number of apples is not a matter of number of apples, but of number of apples. In the image above, the apple is only a very",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white plate "
+  },
+  {
+    "image_path": "Img (204).JPG",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a tree filled with lots of green and yellow fruit '. \nQuestion: How many fruits are in the picture?\nAnswer: The number of fruits is a bit arbitrary. \nQuestion: Why is there a tree with a lot of fruits?\nAnswer:  It",
+    "type": "count",
+    "caption": "a tree filled with lots of green and yellow fruit "
+  },
+  {
+    "image_path": "Img (93).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a white plate topped with different types of food '. \nQuestion: Count how many fruits are present in the image.\nAnswer: \nQuestion: \nQuestion: \nQuestion: \nQuestion: \nQuestion: \nQuestion: \nQuestion:",
+    "type": "count",
+    "caption": "a white plate topped with different types of food "
+  },
+  {
+    "image_path": "Img (182).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'a close up picture of a ripe banana '. \nQuestion: Count how many banana are present in the image.\nAnswer: The number of bananas in the image is dependent on the number of leaves and stems in the plant. \nQuestion: If the leaves are not completely",
+    "type": "count",
+    "caption": "a close up picture of a ripe banana "
+  },
+  {
+    "image_path": "Img (134).jpg",
+    "question": "Count the number of grapes in the image.",
+    "answer": "'a pile of grapes sitting on top of a table '. \nQuestion: Count the number of grapes in the image.\nAnswer: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,",
+    "type": "count",
+    "caption": "a pile of grapes sitting on top of a table "
+  },
+  {
+    "image_path": "Img (295).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a white plate topped with a bunch of strawberries '. \nQuestion: What fruit appears in this picture?\nAnswer: A very white grapefruit. \nQuestion: What fruit appears in this picture?\nAnswer: A very white grapefruit.  Question: What",
+    "type": "identify",
+    "caption": "a white plate topped with a bunch of strawberries "
+  },
+  {
+    "image_path": "Img (113).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a plant that is on top of a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The fruit is 'a plant that is on top of a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer:",
+    "type": "identify",
+    "caption": "a plant that is on top of a table "
+  },
+  {
+    "image_path": "Img (177).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'three different types of fruit sitting on top of each other '. \nQuestion: How many fruits are in the image?\nAnswer:  It is a very small number.  One can also see the size of the fruit sitting on top of each other.  The",
+    "type": "count",
+    "caption": "three different types of fruit sitting on top of each other "
+  },
+  {
+    "image_path": "Img (176).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a bowl filled with lots of different types of fruit '. \nQuestion: Identify the fruits in the picture.\nAnswer: A lot of fruits are found in the garden. Some are small, some are large, some are large and some are not. \nQuestion:",
+    "type": "identify",
+    "caption": "a bowl filled with lots of different types of fruit "
+  },
+  {
+    "image_path": "Img (40).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas hanging from a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer: In the picture, I see some bananas. \nQuestion: What is your favourite fruit?\nAnswer: The fruit of the poppy is the sweet",
+    "type": "identify",
+    "caption": "bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (255).jpg",
+    "question": "Count how many orange are present in the image.",
+    "answer": "'a glass of orange juice sitting on top of a table '. \nQuestion: Count how many orange are present in the image.\nAnswer:  This is a very simple question.  The answer is not in the picture, but is in the answer.  The answer is",
+    "type": "count",
+    "caption": "a glass of orange juice sitting on top of a table "
+  },
+  {
+    "image_path": "Img (169).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a variety of fruits and vegetables on a table '. \nQuestion: How many fruits are in the image?\nAnswer: The number of fruits is limited. However, most of the fruits are in the range of 1-3.\nQuestion: What is the most important",
+    "type": "count",
+    "caption": "a variety of fruits and vegetables on a table "
+  },
+  {
+    "image_path": "Img (110).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pot filled with lots of brown stuff in a field '. \nQuestion: What fruit appears in this picture?\nAnswer: The picture is of a red apple and the picture is of a red apple.\nQuestion: What does the picture have to do with the fruit?",
+    "type": "identify",
+    "caption": "a pot filled with lots of brown stuff in a field "
+  },
+  {
+    "image_path": "Img (267).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'a basket filled with apples and oranges '. \nQuestion: How many apple are in the image?\nAnswer: There are 3 apples, 3 oranges and 1 grapefruit. \nQuestion: How many grapefruit are in the image?\nAnswer: 1 (",
+    "type": "count",
+    "caption": "a basket filled with apples and oranges "
+  },
+  {
+    "image_path": "Img (43).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'bunches of bananas sitting on the ground '. \nQuestion: Identify the fruits in the picture.\nAnswer: Banana is a fruit in the family Aruaceae, and is found on the soil.\nQuestion: What is the size of the banana?",
+    "type": "identify",
+    "caption": "bunches of bananas sitting on the ground "
+  },
+  {
+    "image_path": "Img (289).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a red and yellow flower in a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer: I have seen the fruit in the picture of a red and yellow flower in a tree. \nQuestion: What fruit do you see in the picture",
+    "type": "identify",
+    "caption": "a red and yellow flower in a tree "
+  },
+  {
+    "image_path": "Img (229).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pile of fruit sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer: They are all fruits. \nQuestion: What are you looking at in the picture?\nAnswer: They are all fruits. \nQuestion:",
+    "type": "identify",
+    "caption": "a pile of fruit sitting on top of each other "
+  },
+  {
+    "image_path": "Img (66).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a bowl filled with lots of fresh fruit '. \nQuestion: How many fruits are in the image?\nAnswer: 10.\nQuestion: How many fruits are in the image?\nAnswer: 10.\nQuestion: How many fruits are in the image?",
+    "type": "count",
+    "caption": "a bowl filled with lots of fresh fruit "
+  },
+  {
+    "image_path": "Img (156).jpg",
+    "question": "Count the number of grapes in the image.",
+    "answer": "'a pile of grapes on top of a table '. \nQuestion: Count the number of grapes in the image.\nAnswer: This is the number of grapes in the image. \nQuestion: The number of grapes in the image is 6.\nAnswer: The number of",
+    "type": "count",
+    "caption": "a pile of grapes on top of a table "
+  },
+  {
+    "image_path": "Img (280).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of a ripe red rose '. \nQuestion: What fruit appears in this picture?\nAnswer: It appears to be a very young, white or brown rose.\nQuestion: What fruit is in this picture?\nAnswer: It is a very",
+    "type": "identify",
+    "caption": "a close up picture of a ripe red rose "
+  },
+  {
+    "image_path": "Img (278).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a pile of red and white strawberries on top of each other '. \nQuestion: How many fruits are in the image?\nAnswer: 1.5  (I've only seen one, but it's probably the best I've seen.  I've only seen one,",
+    "type": "count",
+    "caption": "a pile of red and white strawberries on top of each other "
+  },
+  {
+    "image_path": "Img (143).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a row of red and yellow flowers on a table '. \nQuestion: What fruits do you see in the picture?\nAnswer: The 'red and yellow flowers' are the fruits that I saw in the picture. \nQuestion: What is the name of the flower you see",
+    "type": "identify",
+    "caption": "a row of red and yellow flowers on a table "
+  },
+  {
+    "image_path": "Img (28).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a collage of different types of apples '. \nQuestion: How many apple do you see in this picture??\nAnswer: In order to answer the question, you have to remember that there are a lot of different types of apples. The picture above shows the different types of",
+    "type": "count",
+    "caption": "a collage of different types of apples "
+  },
+  {
+    "image_path": "Img (90).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a red and white striped grapefruit tree with red berries '. \nQuestion: How many fruits are in the image?\nAnswer:  A few hundred  and a few hundred  a couple of different sizes. \nQuestion: What's the meaning of the word",
+    "type": "count",
+    "caption": "a red and white striped grapefruit tree with red berries "
+  },
+  {
+    "image_path": "Img (10).jpeg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a close up picture of a ripe red rose '. \nQuestion: Identify the fruits in the picture.\nAnswer: Yes. \nQuestion: What is the location of the vine?\nAnswer: The vine is a single piece of fruit, usually a leaf,",
+    "type": "identify",
+    "caption": "a close up picture of a ripe red rose "
+  },
+  {
+    "image_path": "Img (202).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a large bunch of green and yellow bananas hanging from a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer: The red fruit is 'the red fruit' but the white fruit is 'the white fruit'.\nQuestion: What are the most common foods in the",
+    "type": "identify",
+    "caption": "a large bunch of green and yellow bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (152).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a large amount of green and yellow flowers in a large pot '. \nQuestion: What fruits do you see in the picture?\nAnswer: The orange fruit is the one that is most beautiful. It is a beautiful yellow fruit that is usually on a fruit tree. It is an important fruit",
+    "type": "identify",
+    "caption": "a large amount of green and yellow flowers in a large pot "
+  },
+  {
+    "image_path": "Img (80).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a large group of red berries hanging from a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer:  I would like to know what fruit they are and what they are not. \nQuestion: What are the most common fruits in the world",
+    "type": "identify",
+    "caption": "a large group of red berries hanging from a tree "
+  },
+  {
+    "image_path": "Img (252).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: What kind of fruit is in the picture?\nAnswer: A banana. \nQuestion: What color is the fruit?\nAnswer: A blue fruit. \nQuestion: What is the shape of the",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (201).jpg",
+    "question": "Count how many banana are present in the image.",
+    "answer": "'a pile of unripe bananas sitting on top of a table '. \nQuestion: Count how many banana are present in the image.\nAnswer: 10\nQuestion: What is the amount of bananas in the image?\nAnswer: 5\nQuestion: What is the size of the image?",
+    "type": "count",
+    "caption": "a pile of unripe bananas sitting on top of a table "
+  },
+  {
+    "image_path": "Img (235).jpg",
+    "question": "Count the number of orange in the image.",
+    "answer": "'a basket full of oranges sitting on a table '. \nQuestion: Count the number of orange in the image.\nAnswer: 0.01.\nQuestion: Count the number of oranges in the image.\nAnswer: 0.01.\nQuestion: Count the number of",
+    "type": "count",
+    "caption": "a basket full of oranges sitting on a table "
+  },
+  {
+    "image_path": "Img (26).jpg",
+    "question": "How many apple do you see in this picture??",
+    "answer": "'a red apple sitting on top of a green apple '. \nQuestion: How many apple do you see in this picture??\nAnswer: 1 1/2  (1/2)  (1/2)  (1/2)  (1/",
+    "type": "count",
+    "caption": "a red apple sitting on top of a green apple "
+  },
+  {
+    "image_path": "Img (284).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a pair of ripe strawberries sitting on top of each other '. \nQuestion: What fruits do you see in the picture?\nAnswer:  All of the fruits are ripe and have a nice looking texture, although they are not completely ripe. \nQuestion: What is your favorite",
+    "type": "identify",
+    "caption": "a pair of ripe strawberries sitting on top of each other "
+  },
+  {
+    "image_path": "Img (186).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of a green and white grapefruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: A green and white grapefruit. \nQuestion: If a green and white grapefruit is in the picture, what is the picture?\nAnswer",
+    "type": "identify",
+    "caption": "a close up picture of a green and white grapefruit "
+  },
+  {
+    "image_path": "Img (118).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a pile of different types of fruit on display '. \nQuestion: What fruit appears in this picture?\nAnswer:\nThe picture is of a pile of different types of fruit. \nQuestion: What fruit appears in this picture?\nAnswer:\nThe picture",
+    "type": "identify",
+    "caption": "a pile of different types of fruit on display "
+  },
+  {
+    "image_path": "Img (114).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'an orange hanging from a tree '. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'An orange hanging from a tree'.\nQuestion: What kind of fruit is in the picture? Answer: 'An orange hanging from a tree'.",
+    "type": "identify",
+    "caption": "an orange hanging from a tree "
+  },
+  {
+    "image_path": "Img (116).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'two pieces of bread on a cutting board '. \nQuestion: What fruits do you see in the picture?\nAnswer: A variety of fruits. \nQuestion: What fruits do you see in the picture?\nAnswer: A variety of fruits.  Question: What",
+    "type": "identify",
+    "caption": "two pieces of bread on a cutting board "
+  },
+  {
+    "image_path": "Img (287).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of fruit sitting on top of a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: The picture is a pile of fruit sitting on top of a table.\nQuestion: What type of fruit is in the picture?\nAnswer: The",
+    "type": "identify",
+    "caption": "a pile of fruit sitting on top of a table "
+  },
+  {
+    "image_path": "Img (80).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a large group of red berries hanging from a tree '. \nQuestion: How many fruits are in the image?\nAnswer: There is a total of 5. \nQuestion: Are there any other images or images that you think could be helpful?\nAnswer: We would",
+    "type": "count",
+    "caption": "a large group of red berries hanging from a tree "
+  },
+  {
+    "image_path": "Img (210).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'a close up picture of an orange on a table '. \nQuestion: What fruit appears in this picture?\nAnswer: The orange appears to be in a blue-green color.\nQuestion: Is it possible to tell by the color of the orange that the orange is",
+    "type": "identify",
+    "caption": "a close up picture of an orange on a table "
+  },
+  {
+    "image_path": "Img (239).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'an orange sitting on top of a table '. \nQuestion: Identify the fruits in the picture.\nAnswer: Fruit is usually the most important part of the picture. \nQuestion: How did you get the idea for this picture?\nAnswer: I got",
+    "type": "identify",
+    "caption": "an orange sitting on top of a table "
+  },
+  {
+    "image_path": "Img (273).jpg",
+    "question": "Count the number of fruits in the image.",
+    "answer": "'a pile of ripe strawberries sitting on top of a table '. \nQuestion: Count the number of fruits in the image.\nAnswer: The number of fruits is a function of the height of the table and the size of the table.\nQuestion: What do you mean by 'the",
+    "type": "count",
+    "caption": "a pile of ripe strawberries sitting on top of a table "
+  },
+  {
+    "image_path": "Img (69).jpg",
+    "question": "Count how many fruits are present in the image.",
+    "answer": "'a tree filled with lots of green and red berries '. \nQuestion: Count how many fruits are present in the image.\nAnswer: The number of fruits is 1,000,000,000. \nQuestion: Is there a photo of a large tree with a small fruit?",
+    "type": "count",
+    "caption": "a tree filled with lots of green and red berries "
+  },
+  {
+    "image_path": "Img (18).jpg",
+    "question": "How many apple are in the image?",
+    "answer": "'two green apples sitting next to each other on a table '. \nQuestion: How many apple are in the image?\nAnswer: 8. \nQuestion: How many apple are in the picture?\nAnswer: 8. \nQuestion: How many apple are in the picture",
+    "type": "count",
+    "caption": "two green apples sitting next to each other on a table "
+  },
+  {
+    "image_path": "Img (87).jpg",
+    "question": "How many fruits are in the image?",
+    "answer": "'a cluster of red berries hanging from a tree '. \nQuestion: How many fruits are in the image?\nAnswer: The fruit is large and contains a lot of fruits.\nQuestion: What is the name of the fruit?\nAnswer: A fruit is a small",
+    "type": "count",
+    "caption": "a cluster of red berries hanging from a tree "
+  },
+  {
+    "image_path": "Img (140).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a ripe red grapefruit in a red wine glass '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruit is not in the picture.\nQuestion: Do you have any idea if the picture was taken in a different country?\nAnswer: No",
+    "type": "identify",
+    "caption": "a ripe red grapefruit in a red wine glass "
+  },
+  {
+    "image_path": "Img (2).jpeg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a red apple sitting on top of a white surface '. \nQuestion: Identify the fruits in the picture.\nAnswer: The fruit in question is a small red apple. \nQuestion: How do you describe the picture?\nAnswer: The picture is clearly drawn with",
+    "type": "identify",
+    "caption": "a red apple sitting on top of a white surface "
+  },
+  {
+    "image_path": "Img (153).jpg",
+    "question": "Identify the fruits in the picture.",
+    "answer": "'a pile of ripe and unripe ripe apples '. \nQuestion: Identify the fruits in the picture.\nAnswer: They are, but it's not a problem.\nQuestion: Describe the size of the fruit.\nAnswer: This is an important question,",
+    "type": "identify",
+    "caption": "a pile of ripe and unripe ripe apples "
+  },
+  {
+    "image_path": "Img (36).jpg",
+    "question": "What fruit appears in this picture?",
+    "answer": "'bananas sitting on top of a table '. \nQuestion: What fruit appears in this picture?\nAnswer:  It is a small and medium sized fruit, that has a small but prominent green colour. \nQuestion: What fruit does this picture have",
+    "type": "identify",
+    "caption": "bananas sitting on top of a table "
+  },
+  {
+    "image_path": "Img (190).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'a close up picture of three different types of fruit '. \nQuestion: What fruits do you see in the picture?\nAnswer: The picture is a picture of two different types of fruit, and the fruit is one of the two types of fruit that I'm talking about.",
+    "type": "identify",
+    "caption": "a close up picture of three different types of fruit "
+  },
+  {
+    "image_path": "Img (31).jpg",
+    "question": "What fruits do you see in the picture?",
+    "answer": "'bananas hanging from a tree '. \nQuestion: What fruits do you see in the picture?\nAnswer: Strawberry, orange and raspberry.\nQuestion: Why do you think that a strawberry or a raspberry is a bad thing?\nAnswer: Because it's",
+    "type": "identify",
+    "caption": "bananas hanging from a tree "
+  },
+  {
+    "image_path": "Img (173).jpg",
+    "question": "How many fruits are in the picture?",
+    "answer": "'a close up picture of a green and white grapefruit '. \nQuestion: How many fruits are in the picture?\nAnswer: I think about 6-7.\nQuestion: What is the grapefruit taste like?\nAnswer: It is a little bit different than a lot",
+    "type": "count",
+    "caption": "a close up picture of a green and white grapefruit "
+  },
+  {
+    "image_path": "Img (29).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a pile of apples in a bowl '. \nQuestion: What kind of fruit is in the picture?\nAnswer: The apple is a fruit from the same family as the one in the picture. \nQuestion: Is it true that the apple is a fruit of",
+    "type": "identify",
+    "caption": "a pile of apples in a bowl "
+  },
+  {
+    "image_path": "Img (166).jpg",
+    "question": "How many fruits do you see in this picture??",
+    "answer": "'a variety of fruits and vegetables on a table '. \nQuestion: How many fruits do you see in this picture??\nAnswer: 5.  In this picture, the fruit is on the table. \nQuestion: How many vegetables do you see in this picture??",
+    "type": "count",
+    "caption": "a variety of fruits and vegetables on a table "
+  },
+  {
+    "image_path": "Img (244).jpg",
+    "question": "How many orange do you see in this picture??",
+    "answer": "'an orange sitting on top of a green plant '. \nQuestion: How many orange do you see in this picture??\nAnswer: I don't know.\nQuestion: Who is this orange?\nAnswer: I don't know.\nQuestion: What is this orange?",
+    "type": "count",
+    "caption": "an orange sitting on top of a green plant "
+  },
+  {
+    "image_path": "Img (137).jpg",
+    "question": "What kind of fruit is in the picture?",
+    "answer": "'a close up picture of a bunch of green and yellow flowers '. \nQuestion: What kind of fruit is in the picture?\nAnswer: 'A sweet strawberry, orange, orange, yellow and a small pink flower.'\nQuestion: What type of fruit is in the picture?\nAnswer",
+    "type": "identify",
+    "caption": "a close up picture of a bunch of green and yellow flowers "
+  },
+  {
+    "image_path": "Img (70).jpg",
+    "question": "Count the number of apple in the image.",
+    "answer": "'a red apple sitting on top of a white plate '. \nQuestion: Count the number of apple in the image.\nAnswer: '1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14",
+    "type": "count",
+    "caption": "a red apple sitting on top of a white plate "
+  }
+]
